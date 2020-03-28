@@ -1,0 +1,905 @@
+Unique id,Diagnosed date,Age,Gender,Detected city,Detected state,Current status,Status change date,Notes,Lat,Long
+1,30-Jan,20,Female,Thrissur,Kerala,Recovered,14-Feb,Travelled from Wuhan. Student from Wuhan,10.5256264,76.2132542
+2,02-Feb,Not Known,Not Known,Alappuzha,Kerala,Recovered,14-Feb,Travelled from Wuhan. Student from Wuhan,9.4887006,76.4125641
+3,03-Feb,Not Known,Not Known,Kasaragod,Kerala,Recovered,14-Feb,Travelled from Wuhan. Student from Wuhan,12.421713,75.1904498
+4,02-Mar,45,Male,East Delhi,Delhi,Recovered,15-Mar,"Travelled from Austria, Italy. Travel history to Italy and Austria",28.6204767,77.3091807
+5,02-Mar,Not Known,Not Known,Hyderabad,Telangana,Recovered,02-Mar,"Travelled from Dubai, Singapore contact. Travel history to Dubai, Singapore contact",25.3801017,68.3750376
+6,03-Mar,69,Male,Jaipur,Rajasthan,Recovered,03-Mar,Travelled from Italy. Italian tourist,26.916194,75.820349
+7,04-Mar,55,Not Known,Gurugram,Haryana,Hospitalized,04-Mar,Travelled from Italy. Italian tourist,28.4646148,77.0299194
+8,04-Mar,55,Not Known,Gurugram,Haryana,Hospitalized,04-Mar,Travelled from Italy. Italian tourist,28.4646148,77.0299194
+9,04-Mar,55,Not Known,Gurugram,Haryana,Hospitalized,04-Mar,Travelled from Italy. Italian tourist,28.4646148,77.0299194
+10,04-Mar,55,Not Known,Gurugram,Haryana,Hospitalized,04-Mar,Travelled from Italy. Italian tourist,28.4646148,77.0299194
+11,04-Mar,55,Not Known,Gurugram,Haryana,Hospitalized,04-Mar,Travelled from Italy. Italian tourist,28.4646148,77.0299194
+12,04-Mar,55,Not Known,Gurugram,Haryana,Hospitalized,04-Mar,Travelled from Italy. Italian tourist,28.4646148,77.0299194
+13,04-Mar,55,Not Known,Gurugram,Haryana,Hospitalized,04-Mar,Travelled from Italy. Italian tourist,28.4646148,77.0299194
+14,04-Mar,55,Not Known,Gurugram,Haryana,Hospitalized,04-Mar,Travelled from Italy. Italian tourist,28.4646148,77.0299194
+15,04-Mar,55,Not Known,Gurugram,Haryana,Hospitalized,04-Mar,Travelled from Italy. Italian tourist,28.4646148,77.0299194
+16,04-Mar,55,Not Known,Gurugram,Haryana,Hospitalized,04-Mar,Travelled from Italy. Italian tourist,28.4646148,77.0299194
+17,04-Mar,55,Not Known,Gurugram,Haryana,Hospitalized,04-Mar,Travelled from Italy. Italian tourist,28.4646148,77.0299194
+18,04-Mar,55,Not Known,Gurugram,Haryana,Hospitalized,04-Mar,Travelled from Italy. Italian tourist,28.4646148,77.0299194
+19,04-Mar,55,Not Known,Gurugram,Haryana,Hospitalized,04-Mar,Travelled from Italy. Italian tourist,28.4646148,77.0299194
+20,04-Mar,55,Not Known,Gurugram,Haryana,Hospitalized,04-Mar,Travelled from Italy. Italian tourist,28.4646148,77.0299194
+21,04-Mar,70,Female,Jaipur,Rajasthan,Recovered,04-Mar,"Travelled from Italy, Wife of P6. Italian tourist (wife of P6)",26.916194,75.820349
+22,04-Mar,Not Known,Not Known,Agra,Uttar Pradesh,Hospitalized,04-Mar,Family members of P4,27.1752554,78.0098161
+23,04-Mar,Not Known,Not Known,Agra,Uttar Pradesh,Hospitalized,04-Mar,Family members of P4,27.1752554,78.0098161
+24,04-Mar,Not Known,Not Known,Agra,Uttar Pradesh,Hospitalized,04-Mar,Family members of P4,27.1752554,78.0098161
+25,04-Mar,Not Known,Not Known,Agra,Uttar Pradesh,Hospitalized,04-Mar,Family members of P4,27.1752554,78.0098161
+26,04-Mar,Not Known,Not Known,Agra,Uttar Pradesh,Hospitalized,04-Mar,Family members of P4,27.1752554,78.0098161
+27,04-Mar,Not Known,Not Known,Agra,Uttar Pradesh,Hospitalized,04-Mar,Family members of P4,27.1752554,78.0098161
+28,04-Mar,Not Known,Not Known,Agra,Uttar Pradesh,Hospitalized,04-Mar,"Accompanied the Italian tourists, Nationality: Indian. Indian who accompanied the Italian tourists",27.1752554,78.0098161
+29,05-Mar,27,Male,South West Delhi,Delhi,Hospitalized,05-Mar,"Travelled from Italy PayTm Emp, . PayTm Emp, Travelled from Italy",28.5864481,76.979153
+30,05-Mar,59,Male,Ghaziabad,Uttar Pradesh,Recovered,05-Mar,Travelled from Iran. Travelled to Iran,28.711241,77.4445372
+31,06-Mar,Not Known,Not Known,West Delhi,Delhi,Recovered,15-Mar,Travelled from Thailand and Malaysia. Travelled to Thailand and Malaysia,28.6479519,77.0855654
+32,07-Mar,65,Male,Leh,Ladakh,Hospitalized,07-Mar,Travelled from Iran,34.1642029,77.5848133
+33,07-Mar,75,Male,Leh,Ladakh,Hospitalized,07-Mar,Travelled from Iran,34.1642029,77.5848133
+34,07-Mar,45,Male,Chennai,Tamil Nadu,Recovered,07-Mar,Travelled from Oman,13.0801721,80.2838331
+35,08-Mar,24,Male,Pathanamthitta,Kerala,Hospitalized,08-Mar,Travelled from Italy on 29/02/2020 through Doha. Travel from Italy on 29/02/2020 through Doha,9.2834044,76.9606628
+36,08-Mar,54,Male,Pathanamthitta,Kerala,Hospitalized,08-Mar,Travelled from Italy on 29/02/2020 through Doha. Travel from Italy on 29/02/2020 through Doha,9.2834044,76.9606628
+37,08-Mar,53,Female,Pathanamthitta,Kerala,Hospitalized,08-Mar,Travelled from Italy on 29/02/2020 through Doha. Travel from Italy on 29/02/2020 through Doha,9.2834044,76.9606628
+38,08-Mar,65,Male,Pathanamthitta,Kerala,Hospitalized,08-Mar,Relative and neighbour of P35-P37,9.2834044,76.9606628
+39,08-Mar,61,Female,Pathanamthitta,Kerala,Hospitalized,08-Mar,Relative and neighbour of P35-P37,9.2834044,76.9606628
+40,09-Mar,25,Female,South West Delhi,Delhi,Hospitalized,09-Mar,No travel history,28.5864481,76.979153
+41,09-Mar,63,Female,Jammu,Jammu and Kashmir,Hospitalized,09-Mar,"Travelled from Iran. Travel history - Italy, S Korea, Iran",32.7185614,74.8580917
+42,09-Mar,Not Known,Male,Bangalore Urban,Karnataka,Hospitalized,09-Mar,"Travelled from US via London, Mindtree Employee. Mindtree Employee, Returned from US via London",12.9451422,77.553645
+43,09-Mar,3,Male,Kannur,Kerala,Hospitalized,09-Mar,Travelled from Italy on 07/03/2020 (Parents in isolation). Travel from Italy on 07/03/2020 (Parents in isolation),11.8762254,75.3738043
+44,09-Mar,Not Known,Male,Pune,Maharashtra,Hospitalized,09-Mar,"Travelled from Dubai on 1 March, Husband of P45. Returned from Dubai on 1 March, Husband of P45",18.521428,73.8544541
+45,09-Mar,Not Known,Female,Pune,Maharashtra,Hospitalized,09-Mar,"Travelled from Dubai on 1 March, Wife of P44. Returned from Dubai on 1 March, Wife of P44",18.521428,73.8544541
+46,09-Mar,Not Known,Male,Amritsar,Punjab,Hospitalized,09-Mar,Travelled from Italy. Returned from Milan,31.6343083,74.8736788
+47,09-Mar,48,Male,Agra,Uttar Pradesh,Recovered,09-Mar,Factory Manager contact with businessman from Italy. Factory worker contact with businessman,27.1752554,78.0098161
+48,09-Mar,Not Known,Not Known,Agra,Uttar Pradesh,Hospitalized,09-Mar,Was in contact with P22-P27,27.1752554,78.0098161
+49,10-Mar,Not Known,Not Known,Pathanamthitta,Kerala,Hospitalized,10-Mar,"Friends of P35, P36, P37",9.2834044,76.9606628
+50,10-Mar,Not Known,Not Known,Pathanamthitta,Kerala,Hospitalized,10-Mar,"Friends of P35, P36, P37",9.2834044,76.9606628
+51,10-Mar,40,Male,Bangalore Urban,Karnataka,Hospitalized,10-Mar,"Travelled from US on Feb 28, Dell Employee. Dell Employee, Returned from Austin on Feb 28",12.9451422,77.553645
+52,10-Mar,Not Known,Female,Bangalore Urban,Karnataka,Recovered,20-Mar,Wife of P51,12.9451422,77.553645
+53,10-Mar,13,Female,Bangalore Urban,Karnataka,Hospitalized,10-Mar,Daughter of P51 and P52,12.9451422,77.553645
+54,10-Mar,Not Known,Male,Ernakulam,Kerala,Hospitalized,10-Mar,Father of P43,10.0383947,76.5074145
+55,10-Mar,Not Known,Female,Ernakulam,Kerala,Hospitalized,10-Mar,Mother of P43,10.0383947,76.5074145
+56,10-Mar,96,Male,Pathanamthitta,Kerala,Hospitalized,10-Mar,Father of P36,9.2834044,76.9606628
+57,10-Mar,89,Female,Pathanamthitta,Kerala,Hospitalized,10-Mar,Mother of P36,9.2834044,76.9606628
+58,10-Mar,Not Known,Male,Kottayam,Kerala,Hospitalized,10-Mar,Daughter of P36 & P37,9.6285704,76.645525
+59,10-Mar,Not Known,Female,Kottayam,Kerala,Hospitalized,10-Mar,Son in law of P36 & P37,9.6285704,76.645525
+60,10-Mar,3,Female,Pune,Maharashtra,Hospitalized,10-Mar,Daughter of P44 & P45,18.521428,73.8544541
+61,10-Mar,Not Known,Not Known,Pune,Maharashtra,Hospitalized,10-Mar,Co-passenger with P44 & P45 in cab of P62 from Mumbai airport to Pune,18.521428,73.8544541
+62,10-Mar,Not Known,Male,Pune,Maharashtra,Hospitalized,10-Mar,"Cab driver who ferried P44, P45, P61 from Mumbai airport to Pune",18.521428,73.8544541
+63,10-Mar,85,Male,Jaipur,Rajasthan,Recovered,10-Mar,Travelled from Dubai. Returned from Dubai,26.916194,75.820349
+64,11-Mar,46,Male,South West Delhi,Delhi,Hospitalized,11-Mar,"Travelled from Japan, Switzerland and Italy. Travelled to Japan, Switzerland and Italy",28.5864481,76.979153
+65,11-Mar,Not Known,Male,Leh,Ladakh,Hospitalized,11-Mar,Travelled from Iran. Returned from Iran,34.1642029,77.5848133
+66,11-Mar,70,Male,Mumbai City,Maharashtra,Hospitalized,11-Mar,"Travelled from Dubai, Co-passengers P44, P45, spouse of P67. Returned from Dubai, Co-passengers P44, P45, spouse of P67",18.9733536,72.8281049
+67,11-Mar,68,Female,Mumbai City,Maharashtra,Hospitalized,11-Mar,"Travelled from Dubai, Co-passengers P44, P45, spouse of P66. Returned from Dubai, Co-passengers P44, P45, spouse of P66",18.9733536,72.8281049
+68,11-Mar,Not Known,Not Known,Pune,Maharashtra,Hospitalized,11-Mar,"Travelled from Dubai, Co-passengers P44, P45. Returned from Dubai, Co-passengers P44, P45",18.521428,73.8544541
+69,11-Mar,Not Known,Not Known,Pune,Maharashtra,Hospitalized,11-Mar,"Travelled from Dubai, Co-passengers P44, P45. Returned from Dubai, Co-passengers P44, P45",18.521428,73.8544541
+70,11-Mar,Not Known,Not Known,Pune,Maharashtra,Hospitalized,11-Mar,"Travelled from Dubai, Co-passengers P44, P45. Returned from Dubai, Co-passengers P44, P45",18.521428,73.8544541
+71,12-Mar,27,Male,Sri Potti Sriramulu Nellore,Andhra Pradesh,Recovered,23-Mar,Travelled from Italy on March 6th. Arrived from Italy on March 6th,14.2939818,79.7794384
+72,12-Mar,69,Female,South West Delhi,Delhi,Deceased,12-Mar,Mother of P64,28.5864481,76.979153
+73,12-Mar,26,Male,Bangalore Urban,Karnataka,Recovered,20-Mar,"Travelled from Greece to Mumbai on March 6th, Google Employee. Google Employee, Came from Greece to Mumbai on March 6th",12.9451422,77.553645
+74,12-Mar,76,Male,Kalaburgi,Karnataka,Deceased,12-Mar,"Travelled from Saudi on Feb 29, First death in India. First death in India, Returned from Saudi on Feb 29",17.166667,77.083333
+75,12-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,12-Mar,"Travelled from Dubai, SG 54. Returned from Dubai",11.8762254,75.3738043
+76,12-Mar,Not Known,Not Known,Thrissur,Kerala,Hospitalized,12-Mar,Travelled from Qatar. Returned from Qatar,10.5256264,76.2132542
+77,12-Mar,65,Male,Mumbai City,Maharashtra,Deceased,12-Mar,"Travelled from Dubai on March 8, Third death in India, , Was hospitalised in Kasturba Hospital. Third death in India, Returned from Dubai on March 8, Was hospitalised in Kasturba Hospital",18.9733536,72.8281049
+78,12-Mar,45,Male,Nagpur,Maharashtra,Hospitalized,12-Mar,Travelled from US on 6th March. Returned from US on 6th March,21.1498134,79.0820556
+79,12-Mar,33,Male,Pune,Maharashtra,Hospitalized,12-Mar,Travelled from US on 1st March. Returned from the US on 1st March,18.521428,73.8544541
+80,12-Mar,35,Male,Thane,Maharashtra,Hospitalized,12-Mar,Travelled from France on March 8. Returned from France on March 8,19.1943294,72.9701779
+81,12-Mar,35,Female,Lucknow,Uttar Pradesh,Recovered,20-Mar,"Travelled from UK, Canadian Doctor. Canadian Doctor",26.8381,80.9346001
+82,12-Mar,27,Male,Ghaziabad,Uttar Pradesh,Hospitalized,12-Mar,Son of P30,28.711241,77.4445372
+83,13-Mar,Not Known,Male,East Delhi,Delhi,Hospitalized,13-Mar,"Travelled from Italy, Restaurant worker, Was evacuated. Restaurant worker evacuated from Italy",28.6204767,77.3091807
+84,13-Mar,Not Known,Not Known,Jammu,Jammu and Kashmir,Hospitalized,13-Mar,Close contact of P41. Close contact of P42,32.7185614,74.8580917
+85,13-Mar,Not Known,Not Known,Thiruvananthapuram,Kerala,Hospitalized,13-Mar,"Travelled from Italy, Italian national stayed in a resort at Varkala. Italian national stayed in a resort at Varkala",8.5058909,76.9570481
+86,13-Mar,Not Known,Not Known,Thiruvananthapuram,Kerala,Hospitalized,13-Mar,"Travelled from Dubai, has visited Italy. Returned from Dubai, has visited Italy",8.5058909,76.9570481
+87,13-Mar,Not Known,Male,Thiruvanathapuram,Kerala,Hospitalized,13-Mar,Travelled from London via Bahrain . Returned from London via Bahrain,8.4966531,76.957939
+88,13-Mar,Not Known,Female,Nagpur,Maharashtra,Hospitalized,13-Mar,Wife of P78,21.1498134,79.0820556
+89,13-Mar,Not Known,Male,Nagpur,Maharashtra,Hospitalized,13-Mar,Friend of P78,21.1498134,79.0820556
+90,13-Mar,Not Known,Not Known,Pune,Maharashtra,Hospitalized,13-Mar,Travelled from US. Travel history to US,18.521428,73.8544541
+91,13-Mar,Not Known,Female,Agra,Uttar Pradesh,Hospitalized,13-Mar,Wife of P73,27.1752554,78.0098161
+92,14-Mar,Not Known,Not Known,Ahmednagar,Maharashtra,Hospitalized,14-Mar,Travelled from Dubai. Returned from Dubai,19.1627725,74.8580243
+93,14-Mar,Not Known,Female,Mumbai City,Maharashtra,Hospitalized,14-Mar,Wife of P77,18.9733536,72.8281049
+94,14-Mar,Not Known,Male,Mumbai City,Maharashtra,Hospitalized,14-Mar,"Travelled from Dubai on March 8, son of P77. Returned from Dubai on March 8, son of P77",18.9733536,72.8281049
+95,14-Mar,37,Male,Mumbai City,Maharashtra,Hospitalized,14-Mar,"Travelled from US , From Kalyan. Travelled to the US , From Kalyan",18.9733536,72.8281049
+96,14-Mar,59,Not Known,Mumbai City,Maharashtra,Hospitalized,14-Mar,Travelled from Philippines and were brought in from the Mumbai Airport. Travel history to Philippines and were brought in from the Mumbai Airport,18.9733536,72.8281049
+97,14-Mar,Not Known,Not Known,Mumbai City,Maharashtra,Hospitalized,14-Mar,Have international history and were brought in from the Mumbai Airport. Have international travel history and were brought in from the Mumbai Airport,18.9733536,72.8281049
+98,14-Mar,43,Male,Nagpur,Maharashtra,Hospitalized,14-Mar,"Travelled from US, travelled along with P78. Returned from US, travelled along with P78",21.1498134,79.0820556
+99,14-Mar,Not Known,Female,Pune,Maharashtra,Hospitalized,14-Mar,First contacts or family members of the group of 40 who came back from Dubai earlier,18.521428,73.8544541
+100,14-Mar,Not Known,Female,Pune,Maharashtra,Hospitalized,14-Mar,First contacts or family members of the group of 40 who came back from Dubai earlier,18.521428,73.8544541
+101,14-Mar,Not Known,Female,Pune,Maharashtra,Hospitalized,14-Mar,First contacts or family members of the group of 40 who came back from Dubai earlier,18.521428,73.8544541
+102,14-Mar,Not Known,Male,Pune,Maharashtra,Hospitalized,14-Mar,First contacts or family members of the group of 40 who came back from Dubai earlier,18.521428,73.8544541
+103,14-Mar,21,Male,Pune,Maharashtra,Hospitalized,14-Mar,Travelled from Thailand,18.521428,73.8544541
+104,14-Mar,Not Known,Not Known,Yavatmal,Maharashtra,Hospitalized,14-Mar,Travelled from Dubai on 1st March. Returned from Dubai on 1st March,20.15,78.35
+105,14-Mar,Not Known,Not Known,Yavatmal,Maharashtra,Hospitalized,14-Mar,Travelled from Dubai on 1st March. Returned from Dubai on 1st March,20.15,78.35
+106,14-Mar,24,Male,Jaipur,Rajasthan,Hospitalized,14-Mar,Travelled from Spain. Travelled to Spain,26.916194,75.820349
+107,14-Mar,Not Known,Not Known,Hyderabad,Telangana,Hospitalized,14-Mar,Travelled from Italy. Returned from Italy,25.3801017,68.3750376
+108,15-Mar,Not Known,Male,Munnar,Kerala,Hospitalized,15-Mar,"Travelled from Dubai, British citizen who had resided in Munnar resort. British citizen who had resided in Munnar resort",10.0867239,77.060982
+109,15-Mar,Not Known,Male,Thiruvananthapuram,Kerala,Hospitalized,15-Mar,"Travelled from Spain, Doctor. Doctor who had been to Spain",8.5058909,76.9570481
+110,15-Mar,59,Female,Aurangabad - Maharashtra,Maharashtra,Recovered,23-Mar,Travelled from Russia and Kazakhstan. Travel history to Russia and Kazakhstan,19.877263,75.3390241
+111,15-Mar,Not Known,Male,Pune,Maharashtra,Hospitalized,15-Mar,Travelled from Japan and Dubai before his return on March 3. Travelled to Japan and Dubai before his return on March 3,18.521428,73.8544541
+112,15-Mar,46,Not Known,Hyderabad,Telangana,Hospitalized,15-Mar,Travelled from Netherlands March 9. Netherlands travel history March 9,25.3801017,68.3750376
+113,15-Mar,Not Known,Male,Dehradun,Uttarakhand,Hospitalized,15-Mar,"Travelled from Spain, Italy and Russia March 11. Probationer travelled to Spain, Italy and Russia March 11",30.3255646,78.0436813
+114,16-Mar,Not Known,Not Known,Jammu,Jammu and Kashmir,Hospitalized,16-Mar,Travelled from Saudi. Travel history to Saudi Arabia,32.7185614,74.8580917
+115,16-Mar,32,Male,Bangalore Urban,Karnataka,Hospitalized,16-Mar,"Travelled from US via London on March 8, Co Passenger of P82. Returned from the US via London on March 8, Co Passenger of P82",12.9451422,77.553645
+116,16-Mar,45,Female,Kalaburagi,Karnataka,Hospitalized,16-Mar,Daughter of P74,17.166667,77.083333
+117,16-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,16-Mar,Travelled from Middle East. Returned from Middle East,12.421713,75.1904498
+118,16-Mar,Not Known,Female,Malappuram,Kerala,Hospitalized,16-Mar,Travelled from Middle East. Returned from Middle East,11.1068448,76.1099551
+119,16-Mar,Not Known,Female,Malappuram,Kerala,Hospitalized,16-Mar,Travelled from Middle East. Returned from Middle East,11.1068448,76.1099551
+120,16-Mar,47,Not Known,Mumbai City,Maharashtra,Hospitalized,16-Mar,"Travelled from Philippines, Came to Navi Mumbai. Philippines nationals who had come to Navi Mumbai",18.9733536,72.8281049
+121,16-Mar,42,Not Known,Mumbai City,Maharashtra,Hospitalized,16-Mar,"Travelled from Philippines, Came to Navi Mumbai. Philippines nationals who had come to Navi Mumbai",18.9733536,72.8281049
+122,16-Mar,33,Female,Mumbai City,Maharashtra,Hospitalized,16-Mar,"Spouse of P95, From Kalyan",18.9733536,72.8281049
+123,16-Mar,3,Female,Mumbai City,Maharashtra,Hospitalized,16-Mar,"3 year old from Kalyan, Father P95 /Mother P122",18.9733536,72.8281049
+124,16-Mar,44,Female,Mumbai City,Maharashtra,Hospitalized,16-Mar,Travelled from to Lisbon in Portugal. Travel history to Lisbon in Portugal,18.9733536,72.8281049
+125,16-Mar,51,Female,Yavatmal,Maharashtra,Hospitalized,16-Mar,Travelled from Dubai on March 1. Patient returned from Dubai on March 1,20.15,78.35
+126,16-Mar,31,Male,Bhubaneswar,Odisha,Hospitalized,16-Mar,Travelled from Italy. Returned from Italy,20.2667774,85.8435592
+127,16-Mar,Not Known,Male,Hyderabad,Telangana,Hospitalized,16-Mar,Travelled from Scotland. Returned from Scotland,25.3801017,68.3750376
+128,17-Mar,Not Known,Not Known,East Delhi,Delhi,Hospitalized,17-Mar,"Travelled from Italy, 2nd evacuee from Italy in ITBP Chhawla Camp. 2nd evacuee from Italy in ITBP Chhawla Camp",28.6204767,77.3091807
+129,17-Mar,Not Known,Not Known,East Delhi,Delhi,Hospitalized,17-Mar,"Travelled from Italy, 3rd evacuee from Italy in ITBP Chhawla Camp. 3rd evacuee from Italy in ITBP Chhawla Camp",28.6204767,77.3091807
+130,17-Mar,Not Known,Not Known,East Delhi,Delhi,,20-Mar,Travelled from Singapore (Feb) and Canada (Mar). Travelled to Singapore (Feb) and Canada (Mar),28.6204767,77.3091807
+131,17-Mar,29,Female,Gurugram,Haryana,Hospitalized,17-Mar,"Travelled from Malaysia, Sector 9; . Sector 9; travelled from Malaysia",28.4646148,77.0299194
+132,17-Mar,Not Known,Female,Kargil,Ladakh,Hospitalized,17-Mar,Travelled from Iran,34.4208943,75.665486
+133,17-Mar,Not Known,Not Known,Leh,Ladakh,Hospitalized,17-Mar,,34.1642029,77.5848133
+134,17-Mar,Not Known,Not Known,Leh,Ladakh,Hospitalized,17-Mar,,34.1642029,77.5848133
+135,17-Mar,20,Female,Bangalore Urban,Karnataka,Hospitalized,17-Mar,Travelled from UK. Returned from UK,12.9451422,77.553645
+136,17-Mar,67,Female,Bangalore Urban,Karnataka,Hospitalized,17-Mar,Travelled from Dubai. Travel history to Dubai,12.9451422,77.553645
+137,17-Mar,63,Male,Kalaburagi,Karnataka,Hospitalized,17-Mar,Doctor of P74,17.166667,77.083333
+138,17-Mar,49,Male,Mumbai City,Maharashtra,Hospitalized,17-Mar,Travelled from US on March 7. Travelled from the US on March 7,18.9733536,72.8281049
+139,17-Mar,26,Male,Pune,Maharashtra,Hospitalized,17-Mar,Travelled from US on March 14. Travelled from the US on March 14,18.521428,73.8544541
+140,17-Mar,68,Female,Mahe,Puducherry,Hospitalized,17-Mar,Travelled from UAE. Travel history UAE,11.7021978,75.5364701
+141,17-Mar,52,Male,Hyderabad,Telangana,Hospitalized,17-Mar,"Indonesian national; The patient had flown into Delhi on March 9 and after a few days took a train to Karimnagar, about 170 km from Hyderabad, for a religious meeting with a group from Indonesia and Malaysia.",25.3801017,68.3750376
+142,17-Mar,Not Known,Male,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,17-Mar,Sector 78; Contracted from his boss,28.3676097,77.5974033
+143,17-Mar,21,Female,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,17-Mar,"Travelled from France, Sector 100; . Sector 100; Travel history to France",28.3676097,77.5974033
+144,17-Mar,18,Male,Kolkata,West Bengal,Hospitalized,17-Mar,Travelled from United Kingdom (quarantined). Travel history to United Kingdom (quarantined),22.5677459,88.3476023
+145,17-Mar,34,Male,Leh,Ladakh,Hospitalized,17-Mar,Indian Army jawan,34.1642029,77.5848133
+146,17-Mar,Not Known,Male,Leh,Ladakh,Hospitalized,17-Mar,"Travelled from Iran, Father of P145, . Father of P145, Returned from Iran",34.1642029,77.5848133
+147,18-Mar,28,Female,Pune,Maharashtra,Hospitalized,18-Mar,"Travelled from France & Netherlands, Kasaba Peth Woman,Retuned to India on March 15th. Kasaba Peth Woman, Travel History to France & Netherlands, Retuned to India on March 15th",18.521428,73.8544541
+148,18-Mar,25,Male,Lucknow,Uttar Pradesh,Hospitalized,18-Mar,KGMU Doctor treating infected patients,26.8381,80.9346001
+149,18-Mar,22,Male,Hyderabad,Telangana,Hospitalized,18-Mar,"Studying BBA at Scotland, Travelled from UK. Travelled from Scotland, UK",25.3801017,68.3750376
+150,18-Mar,56,Female,Bangalore Urban,Karnataka,Hospitalized,18-Mar,Travelled from US. Travel History to the US,12.9451422,77.553645
+151,18-Mar,25,Male,Bangalore Urban,Karnataka,Hospitalized,18-Mar,Travelled from Spain AI136. Travel History to Spain,12.9451422,77.553645
+152,18-Mar,Not Known,Not Known,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,18-Mar,Travelled from Indonesia. Travel history to Indonesia,28.3676097,77.5974033
+153,18-Mar,44,Male,Gurugram,Haryana,Hospitalized,18-Mar,Travelled from UK. Travel History to the UK,28.4646148,77.0299194
+154,18-Mar,20,Male,Chennai,Tamil Nadu,Hospitalized,18-Mar,Reached Chennai from Delhi via Train,13.0801721,80.2838331
+155,18-Mar,68,Female,Mumbai Suburban,Maharashtra,Hospitalized,18-Mar,"Residing at N Ward,Close contact of another Covid Patient",19.1309576,72.885931
+156,18-Mar,35,Male,Bangalore Urban,Karnataka,Hospitalized,18-Mar,Travelled from the US. Travel History to the US,12.9451422,77.553645
+157,18-Mar,21,Male,Pune,Maharashtra,Hospitalized,18-Mar,"Travelled from Philippines, Singapore and Sri Lanka. Travel History to Philippines, Singapore and Sri Lanka",18.521428,73.8544541
+158,18-Mar,50,Not Known,Ratnagiri,Maharashtra,Hospitalized,18-Mar,Travelled from Dubai.. Travel history to Dubai.,17.2826079,73.4569787
+159,18-Mar,Not Known,Not Known,Srinagar,Jammu and Kashmir,Hospitalized,18-Mar,Foreign Travel,34.0747444,74.8204443
+160,18-Mar,33,Male,Jhunjhunu,Rajasthan,Hospitalized,18-Mar,Travelled from Italy on March 8. Returned from Italy on March 8,28.1287995,75.3992581
+161,18-Mar,30,Female,Jhunjhunu,Rajasthan,Hospitalized,18-Mar,Travelled from Italy on March 8. Returned from Italy on March 8,28.1287995,75.3992581
+162,18-Mar,3,Female,Jhunjhunu,Rajasthan,Hospitalized,18-Mar,Travelled from Italy on March 8. Returned from Italy on March 8,28.1287995,75.3992581
+163,18-Mar,Not Known,Not Known,Hyderabad,Telangana,Hospitalized,18-Mar,Indonesian,25.3801017,68.3750376
+164,18-Mar,Not Known,Not Known,Hyderabad,Telangana,Hospitalized,18-Mar,Indonesian,25.3801017,68.3750376
+165,18-Mar,Not Known,Not Known,Hyderabad,Telangana,Hospitalized,18-Mar,Indonesian,25.3801017,68.3750376
+166,18-Mar,Not Known,Not Known,Hyderabad,Telangana,Hospitalized,18-Mar,Indonesian,25.3801017,68.3750376
+167,18-Mar,Not Known,Not Known,Hyderabad,Telangana,Hospitalized,18-Mar,Indonesian,25.3801017,68.3750376
+168,18-Mar,Not Known,Not Known,Hyderabad,Telangana,Hospitalized,18-Mar,Indonesian,25.3801017,68.3750376
+169,18-Mar,Not Known,Not Known,Hyderabad,Telangana,Hospitalized,18-Mar,Indonesian,25.3801017,68.3750376
+170,18-Mar,Not Known,Female,Gurugram,Haryana,Hospitalized,18-Mar,Wife of P153,28.4646148,77.0299194
+171,18-Mar,38,Female,Dilshad Garden,Delhi,Hospitalized,18-Mar,Travelled from Saudi Arabia. Returned from Saudi Arabia,28.6758257,77.3215163
+172,19-Mar,23,Female,Chandigarh,Chandigarh,Hospitalized,19-Mar,Travelled from UK. Travel History to UK,30.7194022,76.7646552
+173,19-Mar,22,Female,Mumbai Suburban,Maharashtra,Hospitalized,19-Mar,Travelled from UK. Travel History to UK,19.1309576,72.885931
+174,19-Mar,49,Female,Mumbai Suburban,Maharashtra,Hospitalized,19-Mar,Travelled from Dubai. Travel History to Dubai,19.1309576,72.885931
+175,19-Mar,35,Male,Kodagu,Karnataka,Hospitalized,19-Mar,Travelled from Saudi Arabia. Travel history to Saudi Arabia,12.3822808,75.6652353
+176,19-Mar,24,Male,Prakasam,Andhra Pradesh,Hospitalized,19-Mar,Travelled from UK. Travel History to UK,15.5,79.5
+177,19-Mar,24,Female,Raipur,Chhattisgarh,Hospitalized,19-Mar,Travelled from UK. Travel History to UK,21.2379469,81.6336833
+178,19-Mar,Not Known,Male,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,19-Mar,"Travelled from Japan. HCL Emp. HCL Emp, Returned from International trip",28.3676097,77.5974033
+179,19-Mar,Not Known,Not Known,Lucknow,Uttar Pradesh,Hospitalized,19-Mar,Travelled from UK. Travel history to UK,26.8381,80.9346001
+180,19-Mar,-1,Female,Lucknow,Uttar Pradesh,Hospitalized,19-Mar,Travelled from Turkey. Travel history to Turkey,26.8381,80.9346001
+181,19-Mar,21,Male,Chennai,Tamil Nadu,Hospitalized,19-Mar,"Travelled from Dublin, Ireland on 17/3. Returned from Dublin, Ireland on 17/3",13.0801721,80.2838331
+182,19-Mar,70,Male,Shaheed Bhagat Singh Nagar,Punjab,Deceased,19-Mar,Travelled from Germany via Italy. Arrived from Germany via Italy,31.1268889,76.1576848
+183,19-Mar,47,Male,Kasaragod,Kerala,Hospitalized,19-Mar,Travelled from Dubai via Kozhikode Air India Express IX 344. Arrived from Dubai via Kozhikode,12.421713,75.1904498
+184,19-Mar,32,Male,Rajkot,Gujarat,Hospitalized,19-Mar,"Travelled from Mecca, Saudi Arabia",22.3051991,70.8028335
+185,19-Mar,21,Female,Surat,Gujarat,Hospitalized,19-Mar,"Travelled from London, UK via Mumbai",45.9383,3.2553
+186,19-Mar,Not Known,Not Known,Pune,Maharashtra,Hospitalized,19-Mar,Details Awaited,18.521428,73.8544541
+187,19-Mar,51,Male,Ahmednagar,Maharashtra,Hospitalized,19-Mar,Travelled from Dubai. Returned from Dubai,19.1627725,74.8580243
+188,19-Mar,Not Known,Not Known,Dehradun,Uttarakhand,Hospitalized,19-Mar,Travelled from Spain; Indira Gandhi National Forest Academy Trainee. Returned from Spain; Indira Gandhi National Forest Academy Trainee,30.3255646,78.0436813
+189,19-Mar,Not Known,Not Known,Dehradun,Uttarakhand,Hospitalized,19-Mar,Travelled from Spain; Indira Gandhi National Forest Academy Trainee. Returned from Spain; Indira Gandhi National Forest Academy Trainee,30.3255646,78.0436813
+190,19-Mar,Not Known,Not Known,Hyderabad,Telangana,Hospitalized,19-Mar,Travelled from UK on 10th Mar. Returned from London on 10th Mar,25.3801017,68.3750376
+191,19-Mar,Not Known,Not Known,Hyderabad,Telangana,Hospitalized,19-Mar,Travelled from Dubai on 14 Mar. Returned from Dubai on 14 Mar,25.3801017,68.3750376
+192,19-Mar,Not Known,Not Known,Hyderabad,Telangana,Hospitalized,19-Mar,Travelled from UK. Returned from London,25.3801017,68.3750376
+193,19-Mar,19,Male,Bhubaneswar,Odisha,Hospitalized,19-Mar,Travelled from UK. Travel History to the UK,20.2667774,85.8435592
+194,19-Mar,Not Known,Male,Jaipur,Rajasthan,Hospitalized,19-Mar,Travelled from Spain via Dubai - New Delhi on 18 Mar; Husband of P195. Returned from Spain via Dubai - New Delhi on 18 Mar; Husband of P195,26.916194,75.820349
+195,19-Mar,Not Known,Female,Jaipur,Rajasthan,Hospitalized,19-Mar,Travelled from Spain via Dubai - New Delhi on 18 Mar; Wife of P194. Returned from Spain via Dubai - New Delhi on 18 Mar; Wife of P194,26.916194,75.820349
+196,19-Mar,65,Male,Visakapatnam,Andhra Pradesh,Hospitalized,19-Mar,Travelled from Saudi Arabia on 12 Mar. Returned from Saudi Arabia on 12 Mar,17.6102986,83.1946352
+197,19-Mar,22,Female,South Delhi,Delhi,Hospitalized,19-Mar,Travelled from London. Returned from London,28.4851694,77.1963797
+198,19-Mar,22,Male,Ashok Vihar,Delhi,Hospitalized,19-Mar,Travelled from UK. Travel history to UK,19.116503,72.886755
+199,19-Mar,32,Not Known,North East Delhi,Delhi,Hospitalized,19-Mar,Travelled from Mexico. Travel history to Mexico,28.7233079,77.2668565
+200,20-Mar,22,Male,Kolkata,West Bengal,Hospitalized,20-Mar,Travelled to UK,22.5677459,88.3476023
+201,20-Mar,69,Female,Sahibzada Ajit Singh Nagar,Punjab,Hospitalized,20-Mar,Travelled from UK. Returned from UK,30.7287676,76.7138075
+202,20-Mar,Not Known,Not Known,Leh,Ladakh,Hospitalized,20-Mar,Related to SBI employee (Patient ID Unknown),34.1642029,77.5848133
+203,20-Mar,Not Known,Not Known,Leh,Ladakh,Hospitalized,20-Mar,Details awaited,34.1642029,77.5848133
+204,20-Mar,Not Known,Not Known,North West Delhi,Delhi,Hospitalized,20-Mar,Relative of Patient (Patient unknown),28.6141793,77.2022662
+205,20-Mar,Not Known,Not Known,North West Delhi,Delhi,Hospitalized,20-Mar,Relative of Patient (Patient unknown),28.6141793,77.2022662
+206,20-Mar,58,Male,North Delhi,Delhi,Hospitalized,20-Mar,Travelled from UK. Travel history to UK,28.6141793,77.2022662
+207,20-Mar,24,Male,Pune,Maharashtra,Hospitalized,20-Mar,Brother of P157,18.521428,73.8544541
+208,20-Mar,38,Male,Mumbai Suburban,Maharashtra,Hospitalized,20-Mar,Travelled from Turkey. Travel History to Turkey,19.1309576,72.885931
+209,20-Mar,20,Male,Mumbai Suburban,Maharashtra,Hospitalized,20-Mar,Travelled from UK. Travel History to Scotland,19.1309576,72.885931
+210,20-Mar,22,Female,Ahmedabad,Gujarat,Hospitalized,20-Mar,Travelled from US. Returned from New York,23.0216238,72.5797068
+211,20-Mar,34,Female,Ahmedabad,Gujarat,Hospitalized,20-Mar,Travelled from Finland via Delhi. Returned from Finland via Delhi,23.0216238,72.5797068
+212,20-Mar,47,Male,Vadodara,Gujarat,Hospitalized,20-Mar,Travelled from Spain via Mumbai. Travel history to Spain via Mumbai,22.2973142,73.1942567
+213,20-Mar,37,Male,Lucknow,Uttar Pradesh,Hospitalized,20-Mar,"Relative of P142, junior resident at KGMU",26.8381,80.9346001
+214,20-Mar,35,Male,Lucknow,Uttar Pradesh,Hospitalized,20-Mar,"Relative of P142, junior resident at KGMU",26.8381,80.9346001
+215,20-Mar,20,Female,Lucknow,Uttar Pradesh,Hospitalized,20-Mar,"Relative of P142, junior resident at KGMU",26.8381,80.9346001
+216,20-Mar,41,Female,Lucknow,Uttar Pradesh,Hospitalized,20-Mar,Travelled from UK. Travel history to UK,26.8381,80.9346001
+217,20-Mar,Not Known,Not Known,Jaipur,Rajasthan,Hospitalized,20-Mar,"Rangoli Garden, Vaishali Nagar",26.916194,75.820349
+218,20-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,20-Mar,Doctor,25.4887735,74.6996128
+219,20-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,20-Mar,Doctor,25.4887735,74.6996128
+220,20-Mar,18,Female,Hyderabad,Telangana,Hospitalized,20-Mar,Travelled from London. Travel history to UK,25.3801017,68.3750376
+221,20-Mar,Not Known,Not Known,Jaipur,Rajasthan,Hospitalized,20-Mar,Details awaited,26.916194,75.820349
+222,20-Mar,69,Female,Vadodara,Gujarat,Hospitalized,20-Mar,Travelled from Sri Lanka. Travel history to Sri Lanka,22.2973142,73.1942567
+223,20-Mar,27,Male,Ahmedabad,Gujarat,Hospitalized,20-Mar,"Travelled from UK. Returned from London, UK",23.0216238,72.5797068
+224,20-Mar,Not Known,Female,Chandigarh,Chandigarh,Hospitalized,20-Mar,Mother of P172,30.7194022,76.7646552
+225,20-Mar,Not Known,Male,Chandigarh,Chandigarh,Hospitalized,20-Mar,Brother of P172,30.7194022,76.7646552
+226,20-Mar,Not Known,Male,Chandigarh,Chandigarh,Hospitalized,20-Mar,Cook of P172,30.7194022,76.7646552
+227,20-Mar,26,Female,Chandigarh,Chandigarh,Hospitalized,20-Mar,"Travelled from UK, Sector 19; . Sector 19; Travel history to the UK",30.7194022,76.7646552
+228,20-Mar,Not Known,Female,Ernakulam,Kerala,Hospitalized,20-Mar,Travelled from Dubai. UK Tourist. UK Tourist,10.0383947,76.5074145
+229,20-Mar,Not Known,Male,Ernakulam,Kerala,Hospitalized,20-Mar,Travelled from Dubai. UK Tourist. UK Tourist,10.0383947,76.5074145
+230,20-Mar,Not Known,Male,Ernakulam,Kerala,Hospitalized,20-Mar,Travelled from Dubai. UK Tourist. UK Tourist,10.0383947,76.5074145
+231,20-Mar,Not Known,Male,Ernakulam,Kerala,Hospitalized,20-Mar,Travelled from Dubai. UK Tourist. UK Tourist,10.0383947,76.5074145
+232,20-Mar,Not Known,Male,Ernakulam,Kerala,Hospitalized,20-Mar,Travelled from Dubai. UK Tourist. UK Tourist,10.0383947,76.5074145
+233,20-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,20-Mar,Bangar Hospital Doctor,25.4887735,74.6996128
+234,20-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,20-Mar,Bangar Hospital Compounder,25.4887735,74.6996128
+235,20-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,20-Mar,Bangar Hospital Compounder,25.4887735,74.6996128
+236,20-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,20-Mar,Bangar Hospital Compounder,25.4887735,74.6996128
+237,20-Mar,52,Female,Faridabad,Haryana,Hospitalized,20-Mar,"Travelled from Spain, Sector 15; . Sector 15; Travel History to Spain",28.402837,77.3085626
+238,20-Mar,21,Male,Panipat,Haryana,Hospitalized,20-Mar,Travelled from UK. Travel History to UK,29.3912753,76.9771675
+239,20-Mar,52,Male,Kasaragod,Kerala,Hospitalized,20-Mar,Travelled from Sharjah . Returned from Sharjah,12.421713,75.1904498
+240,20-Mar,27,Male,Kasaragod,Kerala,Hospitalized,20-Mar,Travelled from Dubai via Mangalore. Returned from Dubai via Mangalore,12.421713,75.1904498
+241,20-Mar,Not Known,Male,Kasaragod,Kerala,Hospitalized,20-Mar,Travelled in a car with P117,12.421713,75.1904498
+242,20-Mar,Not Known,Female,Kasaragod,Kerala,Hospitalized,20-Mar,Relative of P117,12.421713,75.1904498
+243,20-Mar,Not Known,Female,Kasaragod,Kerala,Hospitalized,20-Mar,Relative of P117,12.421713,75.1904498
+244,20-Mar,2,Not Known,Kasaragod,Kerala,Hospitalized,20-Mar,Relative of P117,12.421713,75.1904498
+245,20-Mar,Not Known,Male,Ernakulam,Kerala,Hospitalized,20-Mar,"Travelled from UK. Palakkad native. Palakkad native, returned from UK",10.0383947,76.5074145
+246,20-Mar,Not Known,Female,Kangra,Himachal Pradesh,Hospitalized,20-Mar,Travelled from Dubai. Returned from Dubai,32.166667,76.25
+247,20-Mar,Not Known,Male,Kangra,Himachal Pradesh,Hospitalized,20-Mar,Travelled from Singapore. Returned from Singapore,32.166667,76.25
+248,20-Mar,59,Male,Jabalpur,Madhya Pradesh,Hospitalized,20-Mar,Travelled from Dubai and Thailand(Family). Travel history to Dubai and Thailand(Family),23.1608938,79.9497702
+249,20-Mar,45,Female,Jabalpur,Madhya Pradesh,Hospitalized,20-Mar,Travelled from Dubai and Thailand(Family). Travel history to Dubai and Thailand(Family),23.1608938,79.9497702
+250,20-Mar,22,Female,Jabalpur,Madhya Pradesh,Hospitalized,20-Mar,Travelled from Dubai and Thailand(Family). Travel history to Dubai and Thailand(Family),23.1608938,79.9497702
+251,20-Mar,24,Male,Jabalpur,Madhya Pradesh,Hospitalized,20-Mar,Travelled from Germany and Switzerland. Travel history to Germany and Switzerland,23.1608938,79.9497702
+252,20-Mar,27,Male,Karimnagar,Telangana,Hospitalized,20-Mar,Indonesian citizen,18.4346438,79.1322648
+253,20-Mar,60,Male,Karimnagar,Telangana,Hospitalized,20-Mar,Indonesian citizen,18.4346438,79.1322648
+254,20-Mar,32,Male,West Delhi,Delhi,Hospitalized,20-Mar,Travelled from France. Travel history to France,28.6479519,77.0855654
+255,20-Mar,Not Known,Not Known,West Delhi,Delhi,Hospitalized,20-Mar,Details awaited,28.6479519,77.0855654
+256,20-Mar,Not Known,Not Known,West Delhi,Delhi,Hospitalized,20-Mar,Details awaited,28.6479519,77.0855654
+257,20-Mar,53,Male,Kalyan,Maharashtra,Hospitalized,20-Mar,Travelled from Dubai. Travel History to Dubai,19.2716301,73.2358655
+258,20-Mar,20,Male,Pune,Maharashtra,Hospitalized,20-Mar,Travelled from UK. Travel History to Scotland,18.521428,73.8544541
+259,21-Mar,23,Female,North 24 Parganas,West Bengal,Hospitalized,21-Mar,Travelled from UK via Mumbai. Returned from Scotland via Mumbai,22.7182799,88.6424809
+260,21-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,21-Mar,Staff of Private Hospital,25.4887735,74.6996128
+261,21-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,21-Mar,Staff of Private Hospital,25.4887735,74.6996128
+262,21-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,21-Mar,Staff of Private Hospital,25.4887735,74.6996128
+263,21-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,21-Mar,Staff of Private Hospital,25.4887735,74.6996128
+264,21-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,21-Mar,Staff of Private Hospital,25.4887735,74.6996128
+265,21-Mar,Not Known,Not Known,Jaipur,Rajasthan,Hospitalized,21-Mar,Details awaited,26.916194,75.820349
+266,21-Mar,42,Male,Sahibzada Ajit Singh Nagar,Punjab,Hospitalized,21-Mar,Travelled from UK. Travel history to UK,30.7287676,76.7138075
+267,21-Mar,74,Female,Sahibzada Ajit Singh Nagar,Punjab,Hospitalized,21-Mar,Sister of P201,30.7287676,76.7138075
+268,21-Mar,28,Female,Sahibzada Ajit Singh Nagar,Punjab,Hospitalized,21-Mar,"Employee of P172, Accompanied P224 & Driver",30.7287676,76.7138075
+269,21-Mar,52,Male,Vadodara,Gujarat,Hospitalized,21-Mar,"Travelled from Sri Lanka, same group as P222. Travel History to Sri Lanka, same group as P222",22.2973142,73.1942567
+270,21-Mar,63,Male,Mumbai Suburban,Maharashtra,Deceased,22-Mar,"Travelled from UK, had a chronic history of diabetes, high blood pressure, and ischemic heart disease.. Travel history to UK, had a chronic history of diabetes, high blood pressure, and ischemic heart disease.",19.1309576,72.885931
+271,21-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,21-Mar,Details awaited,19.1309576,72.885931
+272,21-Mar,41,Female,Pune,Maharashtra,Hospitalized,21-Mar,Admitted on Swine Flu suspicion; COVID19 confirmed,18.521428,73.8544541
+273,21-Mar,Not Known,Not Known,Pune,Maharashtra,Hospitalized,21-Mar,Travelled from Ireland. Travel History to Ireland,18.521428,73.8544541
+274,21-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,21-Mar,Details awaited,19.1309576,72.885931
+275,21-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,21-Mar,Details awaited,19.1309576,72.885931
+276,21-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,21-Mar,Details awaited,19.1309576,72.885931
+277,21-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,21-Mar,Details awaited,19.1309576,72.885931
+278,21-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,21-Mar,"Airport Official, Details awaited",19.1309576,72.885931
+279,21-Mar,Not Known,Not Known,North Delhi,Delhi,Hospitalized,21-Mar,Details awaited; MoHFW reported 26 on 21 Mar AM,28.6141793,77.2022662
+280,21-Mar,Not Known,Not Known,North Delhi,Delhi,Hospitalized,21-Mar,Details awaited; MoHFW reported 26 on 21 Mar AM,28.6141793,77.2022662
+281,21-Mar,Not Known,Not Known,North Delhi,Delhi,Hospitalized,21-Mar,Details awaited; MoHFW reported 26 on 21 Mar AM,28.6141793,77.2022662
+282,21-Mar,Not Known,Not Known,North Delhi,Delhi,Hospitalized,21-Mar,Details awaited; MoHFW reported 26 on 21 Mar AM,28.6141793,77.2022662
+283,21-Mar,Not Known,Not Known,North Delhi,Delhi,Hospitalized,21-Mar,Details awaited; MoHFW reported 26 on 21 Mar AM,28.6141793,77.2022662
+284,21-Mar,Not Known,Not Known,North East Delhi,Delhi,Hospitalized,21-Mar,Details awaited; MoHFW reported 26 on 21 Mar AM,28.7233079,77.2668565
+285,21-Mar,32,Male,Chikkaballapura,Karnataka,Hospitalized,21-Mar,"Travelled from Mecca, Saudi Arabia. Travel history to Mecca, Saudi Arabia",13.4358702,77.7312434
+286,21-Mar,Not Known,Not Known,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,21-Mar,"Supertech Capetown, Sector 74, NOIDA",28.3676097,77.5974033
+287,21-Mar,38,Female,Panchkula,Haryana,Hospitalized,21-Mar,Worked at a beauty salon that Chandigarh’s first coronavirus patient visited,30.6162164,77.041978
+288,21-Mar,Not Known,Not Known,Leh,Ladakh,Hospitalized,21-Mar,Relative of Leh Patient (ID Unknown),34.1642029,77.5848133
+289,21-Mar,Not Known,Not Known,Leh,Ladakh,Hospitalized,21-Mar,Relative of Leh Patient (ID Unknown),34.1642029,77.5848133
+290,21-Mar,Not Known,Not Known,Kargil,Ladakh,Hospitalized,21-Mar,Relative of P132,34.4208943,75.665486
+291,21-Mar,Not Known,Not Known,Ahmedabad,Gujarat,Hospitalized,21-Mar,Details awaited,23.0216238,72.5797068
+292,21-Mar,Not Known,Not Known,Ahmedabad,Gujarat,Hospitalized,21-Mar,Details awaited,23.0216238,72.5797068
+293,21-Mar,69,Male,Surat,Gujarat,Deceased,22-Mar,Details awaited,45.9383,3.2553
+294,21-Mar,67,Male,Surat,Gujarat,Deceased,22-Mar,Travelled to Delhi & Jaipur. Details awaited,45.9383,3.2553
+295,21-Mar,Not Known,Not Known,Gandhinagar,Gujarat,Hospitalized,21-Mar,Details awaited,23.2232877,72.6492267
+296,21-Mar,53,Female,Bangalore Urban,Karnataka,Hospitalized,21-Mar,Domestic Help of P137,12.9451422,77.553645
+297,21-Mar,39,Male,Bangalore Urban,Karnataka,Hospitalized,21-Mar,"Travelled from Netherlands. Travel history to Amsterdam, The Netherlands",12.9451422,77.553645
+298,21-Mar,19,Female,Moradabad,Uttar Pradesh,Hospitalized,21-Mar,Travelled from France. Travel History to France,28.8638424,78.8057783
+299,21-Mar,35,Male,Hyderabad,Telangana,Hospitalized,21-Mar,Contact of P191. Details awaited,25.3801017,68.3750376
+300,21-Mar,33,Male,Hyderabad,Telangana,Hospitalized,21-Mar,"Travelled from Dubai, Beliseema MSE Cruise Emp; . Bellisima (?) Cruise employee; Travelled from Dubai",25.3801017,68.3750376
+301,21-Mar,Not Known,Not Known,Erode,Tamil Nadu,Hospitalized,21-Mar,"Details awaited, Thailand Nationals. Details awaited",11.3692044,77.6766269
+302,21-Mar,Not Known,Not Known,Erode,Tamil Nadu,Hospitalized,21-Mar,"Details awaited, Thailand Nationals. Details awaited",11.3692044,77.6766269
+303,21-Mar,65,Male,Chennai,Tamil Nadu,Hospitalized,21-Mar,Travelled from New Zealand. Travel history to New Zealand,13.0801721,80.2838331
+304,21-Mar,35,Male,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,21-Mar,Son of P182,31.1268889,76.1576848
+305,21-Mar,34,Male,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,21-Mar,Son of P182,31.1268889,76.1576848
+306,21-Mar,45,Male,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,21-Mar,Son of P182,31.1268889,76.1576848
+307,21-Mar,40,Female,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,21-Mar,Daughter in Law of P182,31.1268889,76.1576848
+308,21-Mar,17,Male,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,21-Mar,Grand daughter of P182,31.1268889,76.1576848
+309,21-Mar,36,Female,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,21-Mar,Daughter of P182,31.1268889,76.1576848
+310,21-Mar,Not Known,Not Known,Yavatmal,Maharashtra,Hospitalized,21-Mar,Travelled from Congo. Travel history to Congo,20.15,78.35
+311,21-Mar,60,Male,Hoshiarpur,Punjab,Hospitalized,21-Mar,In contact with P182,31.6085743,75.8464425
+312,21-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,21-Mar,Travelled from Sharjah IX 746. Details awaited; Returned from a Gulf Country,11.8762254,75.3738043
+313,21-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,21-Mar,"Travelled from Dubai, Air India Express IX 344. Details awaited; Returned from a Gulf Country",11.8762254,75.3738043
+314,21-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,21-Mar,"Travelled from Dubai, SG54. Details awaited; Returned from a Gulf Country",11.8762254,75.3738043
+315,21-Mar,Not Known,Male,Kasaragod,Kerala,Hospitalized,21-Mar,Travelled from Dubai. Returned from Dubai,12.421713,75.1904498
+316,21-Mar,Not Known,Male,Kasaragod,Kerala,Hospitalized,21-Mar,Travelled from Dubai. Returned from Dubai,12.421713,75.1904498
+317,21-Mar,Not Known,Male,Kasaragod,Kerala,Hospitalized,21-Mar,Travelled from Dubai. Returned from Dubai,12.421713,75.1904498
+318,21-Mar,Not Known,Male,Kasaragod,Kerala,Hospitalized,21-Mar,Travelled from Dubai. Returned from Dubai,12.421713,75.1904498
+319,21-Mar,Not Known,Male,Kasaragod,Kerala,Hospitalized,21-Mar,Travelled from Dubai. Returned from Dubai,12.421713,75.1904498
+320,21-Mar,Not Known,Male,Kasaragod,Kerala,Hospitalized,21-Mar,Travelled from Dubai. Returned from Dubai,12.421713,75.1904498
+321,21-Mar,Not Known,Not Known,Ernakulam,Kerala,Hospitalized,21-Mar,Details awaited; Travelled from Middle East. Details awaited; Returned from a Gulf Country,10.0383947,76.5074145
+322,21-Mar,Not Known,Not Known,Ernakulam,Kerala,Hospitalized,21-Mar,Details awaited; Travelled from Middle East. Details awaited; Returned from a Gulf Country,10.0383947,76.5074145
+323,21-Mar,Not Known,Not Known,Ernakulam,Kerala,Hospitalized,21-Mar,Details awaited; Travelled from Middle East. Details awaited; Returned from a Gulf Country,10.0383947,76.5074145
+324,21-Mar,21,Male,Bangalore Urban,Karnataka,Hospitalized,21-Mar,"Travelled from UK. Travel history to Edinburgh, Scotland",12.9451422,77.553645
+325,21-Mar,35,Male,Mysuru,Karnataka,Hospitalized,21-Mar,Travelled from Dubai via Bengaluru. Travel History to Dubai via Bengaluru,12.3051828,76.6553609
+326,21-Mar,23,Female,Sonipat,Haryana,Hospitalized,21-Mar,Travelled from UK Sector 14; . Sector 14; Travel History to the UK,29.0033144,77.0167323
+327,21-Mar,57,Male,Kolkata,West Bengal,Deceased,23-Mar,"He didn't have any recent foreign travel history, but attended a marriage in Bilaspur, Chhattisgarh, last month. He returned by the Pune-Howrah Azad Hind Express, early this month.",22.5677459,88.3476023
+328,21-Mar,Not Known,Not Known,Jaipur,Rajasthan,Hospitalized,21-Mar,Details awaited,26.916194,75.820349
+329,21-Mar,59,Female,Kutch,Gujarat,Hospitalized,21-Mar,Travelled from Saudi. Returned from Saudi Arabia,38.910548,-103.8693974
+330,21-Mar,22,Male,East Godavari,Andhra Pradesh,Hospitalized,21-Mar,Travelled from UK. London to Hyderabad to Rajahmundry,17.233496,81.7225986
+331,21-Mar,24,Not Known,Krishna,Andhra Pradesh,Hospitalized,21-Mar,Travelled from Paris. Paris to Delhi to Hyderabad to Vijayawada,16.6691525,80.7190024
+332,21-Mar,Not Known,Not Known,North East Delhi,Delhi,Hospitalized,21-Mar,Details awaited,28.7233079,77.2668565
+333,21-Mar,31,Male,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,21-Mar,Travelled from Dubai. Returned from Dubai,28.3676097,77.5974033
+334,21-Mar,30,Male,Varanasi,Uttar Pradesh,Hospitalized,21-Mar,Travelled from Dubai on March 17 and went to Varanasi on March 18 in train. Arrived in Delhi from Dubai on March 17 and went to Varanasi on March 18 in train,25.3356491,83.0076292
+335,22-Mar,Not Known,Male,Chandigarh,Chandigarh,Hospitalized,22-Mar,"Scondary contact of Chandigarh's first positive case, has tested positive",30.7194022,76.7646552
+336,22-Mar,33,Male,Dharwad,Karnataka,Hospitalized,22-Mar,Travelled from Dubai via Goa. Foreign travel history,15.4540505,75.0066516
+337,22-Mar,32,Male,Mumbai Suburb,Maharashtra,Hospitalized,22-Mar,"Travelled from USA, Admitted to Kasturba Hosp.. Details awaited",18.9733536,72.8281049
+338,22-Mar,30,Female,Mumbai Suburb,Maharashtra,Hospitalized,22-Mar,"Travelled from USA, Admitted to Kasturba Hosp.. Details awaited",18.9733536,72.8281049
+339,22-Mar,21,Male,Mumbai Suburb,Maharashtra,Hospitalized,22-Mar,"Travelled from Edenburg, South Africa, Admitted to Kasturba Hosp.. Details awaited",18.9733536,72.8281049
+340,22-Mar,60,Female,Mumbai Suburb,Maharashtra,Hospitalized,22-Mar,"Travelled from Saudi Arabia, Admitted to Kasturba Hosp.. Details awaited",18.9733536,72.8281049
+341,22-Mar,64,Female,Mumbai City,Maharashtra,Hospitalized,22-Mar,Contact. Details awaited,18.9733536,72.8281049
+342,22-Mar,35,Male,Mumbai Suburban,Maharashtra,Hospitalized,22-Mar,"Travelled from Istanbul, Turkey, Admitted to Kasturba Hosp.. Details awaited",19.1309576,72.885931
+343,22-Mar,Not Known,Not Known,Pune,Maharashtra,Hospitalized,22-Mar,Details awaited. Close Relatives of P272,18.521428,73.8544541
+344,22-Mar,Not Known,Not Known,Pune,Maharashtra,Hospitalized,22-Mar,Details awaited. Close Relatives of P272,18.521428,73.8544541
+345,22-Mar,Not Known,Not Known,Pune,Maharashtra,Hospitalized,22-Mar,Details awaited. Close Relatives of P272,18.521428,73.8544541
+346,22-Mar,Not Known,Not Known,Pune,Maharashtra,Hospitalized,22-Mar,Details awaited. Close Relatives of P272,18.521428,73.8544541
+347,22-Mar,26,Female,Coimbatore,Tamil Nadu,Hospitalized,22-Mar,Travelled from Spain. Landed at Bengaluru airport on March 17 and travelled to Coimbatore on train.,11.0018115,76.9628425
+348,22-Mar,38,Male,Munger,Bihar,Deceased,22-Mar,"Travelled from Qatar, Kolkata. He was from Munger. He died yesterday at AIIMS in Patna; had Travelled from Kolkata two days back.Foreign . He was from Munger. He died yesterday at AIIMS in Patna; had returned from Kolkata two days back.Foreign travel history to Qatar",25.2208117,86.5172037
+349,22-Mar,Not Known,Female,Patna,Bihar,Hospitalized,22-Mar,Travelled from UK. Patient has recently . Patient has recently returned from Scotland.,25.6093239,85.1235252
+350,22-Mar,24,Male,Guntur,Telangana,Hospitalized,22-Mar,Travelled from London via Dubai. From London via Dubai,16.2915189,80.4541588
+351,22-Mar,Not Known,Not Known,Ahmedabad,Gujarat,Hospitalized,22-Mar,Details awaited,23.0216238,72.5797068
+352,22-Mar,Not Known,Not Known,Ahmedabad,Gujarat,Hospitalized,22-Mar,Details awaited,23.0216238,72.5797068
+353,22-Mar,Not Known,Not Known,Ahmedabad,Gujarat,Hospitalized,22-Mar,Details awaited,23.0216238,72.5797068
+354,22-Mar,Not Known,Not Known,Ahmedabad,Gujarat,Hospitalized,22-Mar,Details awaited,23.0216238,72.5797068
+355,22-Mar,Not Known,Not Known,Amritsar,Punjab,Hospitalized,22-Mar,Travelled from UK via Delhi. Details awaited,31.6343083,74.8736788
+356,22-Mar,Not Known,Not Known,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,22-Mar,Travelled from Germany via Italy. Details awaited,31.1268889,76.1576848
+357,22-Mar,Not Known,Not Known,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,22-Mar,Travelled from Germany via Italy. Details awaited,31.1268889,76.1576848
+358,22-Mar,Not Known,Not Known,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,22-Mar,"Close contact of Patient (Patient Unknown, likely P182). Details awaited",31.1268889,76.1576848
+359,22-Mar,Not Known,Not Known,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,22-Mar,"Close contact of Patient (Patient Unknown, likely P182). Details awaited",31.1268889,76.1576848
+360,22-Mar,Not Known,Not Known,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,22-Mar,"Close contact of Patient (Patient Unknown, likely P182). Details awaited",31.1268889,76.1576848
+361,22-Mar,Not Known,Not Known,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,22-Mar,"Close contact of Patient (Patient Unknown, likely P182). Details awaited",31.1268889,76.1576848
+362,22-Mar,26,Female,Bhopal,Madhya Pradesh,Hospitalized,22-Mar,Travelled from UK via Delhi (by train). Details awaited,23.2530923,77.3962718
+363,22-Mar,58,Male,Kasaragod,Kerala,Hospitalized,22-Mar,Travelled from Middle East,12.421713,75.1904498
+364,22-Mar,27,Male,Kasaragod,Kerala,Hospitalized,22-Mar,Travelled from Middle East,12.421713,75.1904498
+365,22-Mar,32,Male,Kasaragod,Kerala,Hospitalized,22-Mar,Travelled from Middle East,12.421713,75.1904498
+366,22-Mar,41,Male,Kasaragod,Kerala,Hospitalized,22-Mar,Travelled from Middle East,12.421713,75.1904498
+367,22-Mar,33,Male,Kasaragod,Kerala,Hospitalized,22-Mar,Travelled from Middle East,12.421713,75.1904498
+368,22-Mar,26,Male,East Godavari,Telangana,Hospitalized,22-Mar,Travelled from Sweden,17.233496,81.7225986
+369,22-Mar,34,Male,Rangareddy,Telangana,Hospitalized,22-Mar,Travelled from Sweden,17.1333954,78.3970979
+370,22-Mar,23,Male,Bhadradri Kothagudem,Telangana,Hospitalized,22-Mar,Travelled from London,17.7153452,80.5714976
+371,22-Mar,23,Male,Hyderabad,Telangana,Hospitalized,22-Mar,Travelled from London via Doha,25.3801017,68.3750376
+372,22-Mar,50,Female,Hyderabad,Telangana,Hospitalized,22-Mar,Travelled from Dubai,25.3801017,68.3750376
+373,22-Mar,22,Male,Uttara Kannada,Karnataka,Hospitalized,22-Mar,Travelled from Dubai on Spicejet SG60 (21C),14.7244742,74.6422373
+374,22-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,22-Mar,Details awaited,11.8762254,75.3738043
+375,22-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,22-Mar,Details awaited,11.8762254,75.3738043
+376,22-Mar,32,Male,Malappuram,Kerala,Hospitalized,22-Mar,Returned from Abhudhabi via Air India IX 348,11.1068448,76.1099551
+377,22-Mar,24,Male,Malappuram,Kerala,Hospitalized,22-Mar,Returned from Dubai via Air Arabia G9 425,11.1068448,76.1099551
+378,22-Mar,41,Female,Kozhikode,Kerala,Hospitalized,22-Mar,"Travelled from Abu Dhabi, EY 250",11.2446144,75.7759372
+379,22-Mar,27,Male,Kozhikode,Kerala,Hospitalized,22-Mar,"Travelled from Dubai AI 938, Taken to hospital directly from the airport.",11.2446144,75.7759372
+380,22-Mar,61,Male,Ernakulam,Kerala,Hospitalized,22-Mar,Travelled from Dubai,10.0383947,76.5074145
+381,22-Mar,21,Female,Ernakulam,Kerala,Hospitalized,22-Mar,Travelled from United Kingdom,10.0383947,76.5074145
+382,22-Mar,64,Female,Chikkaballapura,Karnataka,Hospitalized,22-Mar,"Travelled from Mecca, Saudi Arabia along with Son(P285), via Hyderabad to Hindupur by train and to Gowribidanur by bus",13.4358702,77.7312434
+383,22-Mar,36,Female,Bangalore Urban,Karnataka,Hospitalized,22-Mar,Travelled from Switzerland and France,12.9451422,77.553645
+384,22-Mar,27,Male,Bangalore Urban,Karnataka,Hospitalized,22-Mar,Travelled from Germany,12.9451422,77.553645
+385,22-Mar,51,Male,Bangalore Urban,Karnataka,Hospitalized,22-Mar,Travelled from London,12.9451422,77.553645
+386,22-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,22-Mar,Details awaited,11.8762254,75.3738043
+387,22-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,22-Mar,Details awaited,11.8762254,75.3738043
+388,22-Mar,Not Known,Not Known,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,22-Mar,"Close contact of Patient (Patient Unknown, likely P182)",31.1268889,76.1576848
+389,22-Mar,37,Male,Gautam Buddh Nagar,Uttar Pradesh,Hospitalized,22-Mar,Travelled from Denmark,27.42397,77.09922
+390,22-Mar,62,Female,Gautam Buddh Nagar,Uttar Pradesh,Hospitalized,22-Mar,"Mother of P389, details awaited",27.42397,77.09922
+391,22-Mar,Not Known,Male,Kolkata,West Bengal,Hospitalized,22-Mar,Father of P200,22.5677459,88.3476023
+392,22-Mar,Not Known,Female,Kolkata,West Bengal,Hospitalized,22-Mar,Mother of P200,22.5677459,88.3476023
+393,22-Mar,Not Known,Female,Kolkata,West Bengal,Hospitalized,22-Mar,House help of P200,22.5677459,88.3476023
+394,22-Mar,Not Known,Not Known,Jabalpur,Madhya Pradesh,Hospitalized,22-Mar,Details awaited,23.1608938,79.9497702
+395,22-Mar,64,Female,Chennai,Tamil Nadu,Hospitalized,22-Mar,Returned from California - Stanley hospital,13.0801721,80.2838331
+396,22-Mar,43,Male,Tirunelveli Kattabo,Tamil Nadu,Hospitalized,22-Mar,Returned from Dubai - Tirunelveli medical college.,8.5495014,77.5805178
+397,22-Mar,49,Female,Visakhapatnam,Andhra Pradesh,Hospitalized,22-Mar,Patient's husband tested positive,17.7231276,83.3012842
+398,22-Mar,Not Known,Not Known,Jhunjhunu,Rajasthan,Hospitalized,22-Mar,Details awaited,28.1287995,75.3992581
+399,22-Mar,Not Known,Not Known,Jhunjhunu,Rajasthan,Hospitalized,22-Mar,Details awaited,28.1287995,75.3992581
+400,22-Mar,Not Known,Not Known,Jhunjhunu,Rajasthan,Hospitalized,22-Mar,Details awaited,28.1287995,75.3992581
+401,22-Mar,Not Known,Male,Jhunjhunu,Rajasthan,Hospitalized,22-Mar,Travelled from Dubai,28.1287995,75.3992581
+402,22-Mar,36,Male,Jodhpur,Rajasthan,Hospitalized,22-Mar,"Travelled from Turkey, between Mar 8th-17th",26.2967719,73.0351433
+403,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+404,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+405,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+406,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+407,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+408,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+409,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+410,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+411,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+412,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+413,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+414,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+415,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+416,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+417,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+418,23-Mar,Not Known,Not Known,Bangalore Urban,Karnataka,Hospitalized,23-Feb,Details awaited,12.9451422,77.553645
+419,23-Mar,Not Known,Not Known,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,23-Feb,Details awaited,31.1268889,76.1576848
+420,23-Mar,45,Male,Surat,Gujarat,Hospitalized,23-Feb,Local transmission,45.9383,3.2553
+421,23-Mar,58,Male,Ahmedabad,Gujarat,Hospitalized,23-Feb,Returned from Saudi Arabia,23.0216238,72.5797068
+422,23-Mar,57,Female,Ahmedabad,Gujarat,Hospitalized,23-Feb,Returned from Saudi Arabia,23.0216238,72.5797068
+423,23-Mar,27,Female,Vadodara,Gujarat,Hospitalized,23-Feb,Local transmission,22.2973142,73.1942567
+424,23-Mar,29,Female,Vadodara,Gujarat,Hospitalized,23-Feb,Local transmission,22.2973142,73.1942567
+425,23-Mar,24,Female,Ahmedabad,Gujarat,Hospitalized,23-Feb,Returned from Paris,23.0216238,72.5797068
+426,23-Mar,33,Male,Ahmedabad,Gujarat,Hospitalized,23-Feb,Local transmission,23.0216238,72.5797068
+427,23-Mar,49,Male,Gandhinagar,Gujarat,Hospitalized,23-Feb,Local transmission,23.2232877,72.6492267
+428,23-Mar,46,Female,Vadodara,Gujarat,Hospitalized,23-Feb,Returned from Sri Lanka,22.2973142,73.1942567
+429,23-Mar,61,Male,Ahmedabad,Gujarat,Hospitalized,23-Feb,Returned from UK,23.0216238,72.5797068
+430,23-Mar,85,Female,Ahmedabad,Gujarat,Hospitalized,23-Feb,Returned from Saudi Arabia,23.0216238,72.5797068
+431,23-Mar,Not Known,Not Known,North East Delhi,Delhi,Hospitalized,23-Feb,Details awaited,28.7233079,77.2668565
+432,23-Mar,Not Known,Not Known,North East Delhi,Delhi,Hospitalized,23-Feb,Details awaited,28.7233079,77.2668565
+433,23-Mar,Not Known,Not Known,North East Delhi,Delhi,Hospitalized,23-Feb,Details awaited,28.7233079,77.2668565
+434,23-Mar,21,Male,Balkampet,Telangana,Hospitalized,23-Feb,Returned from France,17.4469233,78.4504513
+435,23-Mar,30,Male,Hyderabad,Telangana,Hospitalized,23-Feb,Returned from London,25.3801017,68.3750376
+436,23-Mar,23,Male,Karimnagar,Telangana,Hospitalized,23-Feb,"No Travel History, Contact with Indonesian Group",18.4346438,79.1322648
+437,23-Mar,21,Male,Chandigarh,Chandigarh,Hospitalized,23-Feb,Came in contact with brother of P172,30.7194022,76.7646552
+438,23-Mar,20,Male,Hyderabad,Telangana,Hospitalized,23-Feb,Returned from New York,25.3801017,68.3750376
+439,23-Mar,25,Male,Hyderabad,Telangana,Hospitalized,23-Feb,Returned from London,25.3801017,68.3750376
+440,23-Mar,56,Male,Hyderabad,Telangana,Hospitalized,23-Feb,Returned from Sri Lanka,25.3801017,68.3750376
+441,23-Mar,Not Known,Not Known,Ahmedabad,Gujarat,Hospitalized,23-Feb,Details awaited,23.0216238,72.5797068
+442,23-Mar,Not Known,Not Known,Dehradun,Uttarakhand,Hospitalized,23-Feb,"One more person, who is under observation at Dehradun's Doon Hospita",30.3255646,78.0436813
+443,23-Mar,54,Male,Kasaragod,Kerala,Hospitalized,23-Feb,"Landed in Mangalore airport, had been to Kasturba Medical College Attavar",12.421713,75.1904498
+444,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,"Travelled from Dubai, UAE, Details awaited",12.421713,75.1904498
+445,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,"Travelled from Dubai, UAE, Details awaited",12.421713,75.1904498
+446,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,"Travelled from Dubai, UAE, Details awaited",12.421713,75.1904498
+447,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,"Travelled from Dubai, UAE, Details awaited",12.421713,75.1904498
+448,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,"Travelled from Dubai, UAE, Details awaited",12.421713,75.1904498
+449,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,"Travelled from Dubai, UAE, Details awaited",12.421713,75.1904498
+450,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,"Travelled from Dubai, UAE, Details awaited",12.421713,75.1904498
+451,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,"Travelled from Dubai, UAE, Details awaited",12.421713,75.1904498
+452,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,"Travelled from Dubai, UAE, Details awaited",12.421713,75.1904498
+453,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,"Travelled from Dubai, UAE, Details awaited",12.421713,75.1904498
+454,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,"Travelled from Dubai, UAE, Details awaited",12.421713,75.1904498
+455,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,"Travelled from Dubai, UAE, Details awaited",12.421713,75.1904498
+456,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,"Travelled from Dubai, UAE, Details awaited",12.421713,75.1904498
+457,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,"Travelled from Dubai, UAE, Details awaited",12.421713,75.1904498
+458,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,Contact with Dubai travellers,12.421713,75.1904498
+459,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,Contact with Dubai travellers,12.421713,75.1904498
+460,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,Contact with Dubai travellers,12.421713,75.1904498
+461,23-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,23-Feb,Contact with Dubai travellers,12.421713,75.1904498
+462,23-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,23-Feb,Details awaited,11.8762254,75.3738043
+463,23-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,23-Feb,Details awaited,11.8762254,75.3738043
+464,23-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,23-Feb,Details awaited,11.8762254,75.3738043
+465,23-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,23-Feb,Details awaited,11.8762254,75.3738043
+466,23-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,23-Feb,Details awaited,11.8762254,75.3738043
+467,23-Mar,61,Female,Ernakulam,Kerala,Hospitalized,23-Feb,"Travelled from UK, British tourist among those who visited Munnar, Wife of P229",10.0383947,76.5074145
+468,23-Mar,56,Not Known,Ernakulam,Kerala,Hospitalized,23-Feb,"Travelled from Dubai, Emirates flight, been in isolation since landed yesterday at Kochi airport",10.0383947,76.5074145
+469,23-Mar,Not Known,Not Known,Thrissur,Kerala,Hospitalized,23-Feb,Details awaited,10.5256264,76.2132542
+470,23-Mar,Not Known,Not Known,Pathanamthitta,Kerala,Hospitalized,23-Feb,Details awaited,9.2834044,76.9606628
+471,23-Mar,38,Male,Bangalore Urban,Karnataka,Hospitalized,23-Feb,Travelled from Dubai,12.9451422,77.553645
+472,23-Mar,41,Male,Bangalore Urban,Karnataka,Hospitalized,23-Feb,Travelled from London,12.9451422,77.553645
+473,23-Mar,30,Female,Bangalore Urban,Karnataka,Hospitalized,23-Feb,"Wife of P297, KA-P17",12.9451422,77.553645
+474,23-Mar,24,Male,Bangalore Rural,Karnataka,Hospitalized,23-Feb,Travelled from UK and Dubai,13.0010872,77.3361225
+475,23-Mar,60,Male,Bangalore Rural,Karnataka,Hospitalized,23-Feb,Travelled from Germany,13.0010872,77.3361225
+476,23-Mar,22,Male,Bangalore Rural,Karnataka,Hospitalized,23-Feb,"Travelled from Dubai, resident of Kannur, Kerala",13.0010872,77.3361225
+477,23-Mar,38,Female,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Travelled from Abu Dhabi,19.1309576,72.885931
+478,23-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,23-Feb,Details awaited,19.1309576,72.885931
+479,23-Mar,Not Known,Not Known,Thane,Maharashtra,Hospitalized,23-Feb,"Contact with P 80, Details awaited",19.1943294,72.9701779
+480,23-Mar,Not Known,Male,Sangli,Maharashtra,Hospitalized,23-Feb,"Travelled from Saudi Arabia, Details awaited",16.8502534,74.5948885
+481,23-Mar,Not Known,Female,Sangli,Maharashtra,Hospitalized,23-Feb,"Travelled from Saudi Arabia, Details awaited",16.8502534,74.5948885
+482,23-Mar,Not Known,Female,Sangli,Maharashtra,Hospitalized,23-Feb,"Travelled from Saudi Arabia, Details awaited",16.8502534,74.5948885
+483,23-Mar,Not Known,Female,Sangli,Maharashtra,Hospitalized,23-Feb,"Travelled from Saudi Arabia, Details awaited",16.8502534,74.5948885
+484,23-Mar,45,Female,Satara,Maharashtra,Hospitalized,23-Feb,"Travelled from Dubai, UAE",17.6361288,74.2982781
+485,23-Mar,Not Known,Not Known,Kanpur,Uttar Pradesh,Hospitalized,23-Feb,Travelled from USA,26.4609135,80.3217588
+486,23-Mar,45,Female,Pilibhit,Uttar Pradesh,Hospitalized,23-Feb,Travelled from Saudi Arabia. Travelled in a group of 37 people to Mecca -- 36 others under observation in Lucknow,28.4952077,80.1075408
+487,23-Mar,69,Male,Kangra,Himachal Pradesh,Deceased,23-Feb,"Tibetan refugee,died at a hospital in Tanda. Returned from the US on 15.03.2020",32.166667,76.25
+488,23-Mar,2,Male,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,23-Feb,Grand son of P182,31.1268889,76.1576848
+489,23-Mar,Not Known,Not Known,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,23-Feb,"Close contact of Patient (Patient Unknown, likely P 201, 266, 267 or 268)",31.1268889,76.1576848
+490,23-Mar,Not Known,Not Known,Jodhpur,Rajasthan,Hospitalized,23-Feb,Details awaited,26.2967719,73.0351433
+491,23-Mar,Not Known,Not Known,Pratapgarh - Rajasthan,Rajasthan,Hospitalized,23-Feb,Details awaited,24.0333495,74.7801315
+492,23-Mar,Not Known,Not Known,Pratapgarh - Rajasthan,Rajasthan,Hospitalized,23-Feb,Details awaited,24.0333495,74.7801315
+493,23-Mar,25,Male,Vishakhapatnam,Andhra Pradesh,Hospitalized,23-Feb,"Travelled from Birmingham,UK. Birmingham to Delhi (Recommended Home Quarantine) -> Vizag airport to Thagarapuvalasa in a car with father -> develops symptoms, visits hospital (Gayatri Vidya Parishad Hospital) -> hospitalised",17.68009,83.20161
+494,23-Mar,Not Known,Not Known,Sonipat,Haryana,Hospitalized,23-Feb,Gurugram,29.0033144,77.0167323
+495,23-Mar,Not Known,Not Known,Sonipat,Haryana,Hospitalized,23-Feb,Gurugram,29.0033144,77.0167323
+496,23-Mar,Not Known,Not Known,Sonipat,Haryana,Hospitalized,23-Feb,Gurugram,29.0033144,77.0167323
+497,23-Mar,Not Known,Not Known,Sonipat,Haryana,Hospitalized,23-Feb,Gurugram,29.0033144,77.0167323
+498,23-Mar,Not Known,Not Known,Sonipat,Haryana,Hospitalized,23-Feb,Gurugram,29.0033144,77.0167323
+499,23-Mar,Not Known,Not Known,Sonipat,Haryana,Hospitalized,23-Feb,Sonipat,29.0033144,77.0167323
+500,23-Mar,25,Male,Chennai,Tamil Nadu,Hospitalized,23-Feb,Travelled from London - RGGH,13.0801721,80.2838331
+501,23-Mar,48,Male,Tiruppur,Tamil Nadu,Hospitalized,23-Mar,Travelled from London - ESI,10.7832271,77.5260478
+502,23-Mar,54,Male,Madurai,Tamil Nadu,Hospitalized,23-Feb,Annanagar at Rajaji Hosp. No mention of travel history.,9.9261153,78.1140983
+503,23-Mar,24,Male,Patna,Bihar,Hospitalized,23-Feb,Travelled from Scotland,25.6093239,85.1235252
+504,23-Mar,35,Male,Jaunpur,Uttar Pradesh,Hospitalized,23-Mar,Travelled from Saudi Arabia on 15th Mar; Symptons on 21st Mar,25.7955927,82.488341
+505,23-Mar,41,Male,Ghaziabad,Uttar Pradesh,Hospitalized,23-Mar,"Doctor, Travelled from France on 13th Mar",28.711241,77.4445372
+506,24-Mar,23,Female,Imphal West,Manipur,Hospitalized,24-Mar,Travelled from London,24.757326,93.8584786
+507,24-Mar,Not Known,Not Known,Pune,Maharashtra,Hospitalized,24-Mar,Details awaited,18.521428,73.8544541
+508,24-Mar,Not Known,Not Known,Pune,Maharashtra,Hospitalized,24-Mar,Details awaited,18.521428,73.8544541
+509,24-Mar,Not Known,Not Known,Pune,Maharashtra,Hospitalized,24-Mar,Details awaited,18.521428,73.8544541
+510,24-Mar,Not Known,Not Known,Satara,Maharashtra,Hospitalized,24-Mar,Details awaited,17.6361288,74.2982781
+511,24-Mar,Not Known,Not Known,Pratapgarh - Rajasthan,Rajasthan,Hospitalized,24-Mar,"Details awaited, To match MoHFW 33",24.0333495,74.7801315
+512,24-Mar,Not Known,Not Known,Jabalpur,Madhya Pradesh,Hospitalized,23-Mar,"Contact Transmission,Details awaited",23.1608938,79.9497702
+513,24-Mar,32,Male,Dakshina Kannada,Karnataka,Hospitalized,24-Mar,"Kasargod Resident; Travelled from Dubai, landed in Mangaluru Airport on 20th Mar",12.8213304,75.2276716
+514,24-Mar,40,Male,Uttara Kannada,Karnataka,Hospitalized,24-Mar,"Travelled from Dubai, landed in Mangaluru Airport on 21st Mar",14.7244742,74.6422373
+515,24-Mar,65,Male,Uttara Kannada,Karnataka,Hospitalized,24-Mar,"Travelled from Dubai, Landed in Mumbai (18th Mar) and Travelled by train to Uttara Kannada",14.7244742,74.6422373
+516,24-Mar,56,Female,Chikkaballapura,Karnataka,Hospitalized,24-Mar,"Travelled from Mecca, Saudi Arabia along with P285 and P382, via Hyderabad (14th Mar) to Hindupur by train and to Gowribidanur by bus",13.4358702,77.7312434
+517,24-Mar,Not Known,Not Known,North East Delhi,Delhi,Hospitalized,24-Mar,"Details awaited, To match MoHFW 31",28.7233079,77.2668565
+518,24-Mar,Not Known,Not Known,Kozhikode,Kerala,Hospitalized,23-Mar,"Travelled from Dubai, Indigo 6E: 89",11.2446144,75.7759372
+519,24-Mar,Not Known,Not Known,Kozhikode,Kerala,Hospitalized,23-Mar,"Travelled from Dubai, Air India AI 906 landed at Chennai",11.2446144,75.7759372
+520,24-Mar,Not Known,Not Known,Ahmedabad,Gujarat,Hospitalized,24-Mar,"Travelled from Saudi Arabia, More details awaited",23.0216238,72.5797068
+521,24-Mar,Not Known,Not Known,Ahmedabad,Gujarat,Hospitalized,24-Mar,"Local Transmission, Details awaited",23.0216238,72.5797068
+522,24-Mar,Not Known,Not Known,Ahmedabad,Gujarat,Hospitalized,24-Mar,"Local Transmission, Details awaited",23.0216238,72.5797068
+523,24-Mar,Not Known,Not Known,Kolkata,West Bengal,Hospitalized,24-Mar,"Travelled from Egypt, Details awaited",22.5677459,88.3476023
+524,24-Mar,74,Male,Chennai,Tamil Nadu,Hospitalized,24-Mar,Travelled from USA,13.0801721,80.2838331
+525,24-Mar,52,Female,Chennai,Tamil Nadu,Hospitalized,24-Mar,Travelled from USA,13.0801721,80.2838331
+526,24-Mar,25,Female,Chennai,Tamil Nadu,Hospitalized,24-Mar,Travelled from Switzerland,13.0801721,80.2838331
+527,24-Mar,49,Male,Rangareddy,Telangana,Hospitalized,24-Mar,Travelled from London,17.1333954,78.3970979
+528,24-Mar,39,Female,Hyderabad,Telangana,Hospitalized,24-Mar,Travelled from Germany,25.3801017,68.3750376
+529,24-Mar,61,Female,Hyderabad,Telangana,Hospitalized,24-Mar,Travelled from Saudi Arabia,25.3801017,68.3750376
+530,24-Mar,56,Female,Bangalore Rural,Karnataka,Hospitalized,24-Mar,"Contact of P150, KA-P13",13.0010872,77.3361225
+531,24-Mar,0,Not Known,Bengaluru,Karnataka,Hospitalized,24-Mar,Details awaited,12.9791198,77.5912997
+532,24-Mar,Not Known,Not Known,Kolkata,West Bengal,Hospitalized,24-Mar,"Travelled from UK, Details Awaited",22.5677459,88.3476023
+533,24-Mar,Not Known,Not Known,Srinagar,Jammu and Kashmir,Hospitalized,24-Mar,Details awaited,34.0747444,74.8204443
+534,24-Mar,Not Known,Not Known,Srinagar,Jammu and Kashmir,Hospitalized,24-Mar,Details awaited,34.0747444,74.8204443
+535,24-Mar,Not Known,Not Known,Jalandhar,Punjab,Hospitalized,24-Mar,Details awaited,31.2920107,75.5680577
+536,24-Mar,Not Known,Not Known,Jalandhar,Punjab,Hospitalized,24-Mar,Details awaited,31.2920107,75.5680577
+537,24-Mar,Not Known,Not Known,Jalandhar,Punjab,Hospitalized,24-Mar,Details awaited,31.2920107,75.5680577
+538,24-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,24-Mar,Details awaited,19.1309576,72.885931
+539,24-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,24-Mar,Details awaited,19.1309576,72.885931
+540,24-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,24-Mar,Details awaited,19.1309576,72.885931
+541,24-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,24-Mar,Details awaited,19.1309576,72.885931
+542,24-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,24-Mar,Details awaited,19.1309576,72.885931
+543,24-Mar,Not Known,Not Known,Ahmednagar,Maharashtra,Hospitalized,24-Mar,Details awaited,19.1627725,74.8580243
+544,24-Mar,47,Female,Gautam Buddh Nagar,Uttar Pradesh,Hospitalized,24-Mar,No travel history. Her husband had contact with colleagues from London,27.42397,77.09922
+545,24-Mar,Not Known,Not Known,Ludhiana,Punjab,Hospitalized,24-Mar,Details awaited,30.9090157,75.851601
+546,24-Mar,Not Known,Not Known,Ludhiana,Punjab,Hospitalized,24-Mar,Details awaited,30.9090157,75.851601
+547,24-Mar,Not Known,Not Known,Munnar,Kerala,Hospitalized,24-Mar,Travelled from United Kingdom,10.0867239,77.060982
+548,24-Mar,Not Known,Not Known,Palakkad,Kerala,Hospitalized,24-Mar,Travelled from Dubai,10.7691989,76.6512469
+549,24-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,24-Mar,Details awaited,12.421713,75.1904498
+550,24-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,24-Mar,"Travelled from Sharjah Air Arabia G9 454, Admitted in Kozhikode",12.421713,75.1904498
+551,24-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,24-Mar,Travelled from Dubai,12.421713,75.1904498
+552,24-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,24-Mar,Travelled from Dubai,12.421713,75.1904498
+553,24-Mar,Not Known,Not Known,Malappuram,Kerala,Hospitalized,24-Mar,Travelled from Dubai,11.1068448,76.1099551
+554,24-Mar,Not Known,Not Known,Alappuzha,Kerala,Hospitalized,24-Mar,Travelled from Qatar to Goa Oman Air WY 662 and from there by train to Alappuzha,9.4887006,76.4125641
+555,24-Mar,57,Female,Ernakulam,Kerala,Hospitalized,24-Mar,Close relative of P380,10.0383947,76.5074145
+556,24-Mar,Not Known,Not Known,Kottayam,Kerala,Hospitalized,24-Mar,Nurse at Kottayam Medical College,9.6285704,76.645525
+557,24-Mar,Not Known,Not Known,Kottayam,Kerala,Hospitalized,24-Mar,"Contact Transmission,Details awaited",9.6285704,76.645525
+558,24-Mar,Not Known,Not Known,Kottayam,Kerala,Hospitalized,24-Mar,Details awaited,9.6285704,76.645525
+559,24-Mar,70,Female,Kasaragod,Karnataka,Hospitalized,24-Mar,From the state of Kerala. With a Travel History to Saudi Arabia and Arrived in Mangaluru. Date of arrival is not known.,12.421713,75.1904498
+560,24-Mar,23,Male,Kasaragod,Karnataka,Hospitalized,24-Mar,From the state of Kerala. With a Travel History to Dubai and Arrived in Mangaluru by Spicejet Flight SG-60 at 5:30pm on Mar 20,12.421713,75.1904498
+561,24-Mar,25,Male,Chitoor,Andhra Pradesh,Hospitalized,24-Mar,Travelled from London,13.0929032,80.266619
+562,24-Mar,65,Male,Chennai,Tamil Nadu,Hospitalized,24-Mar,Travelled from New Zealand,13.0801721,80.2838331
+563,24-Mar,55,Female,Chennai,Tamil Nadu,Hospitalized,24-Mar,No travel history,13.0801721,80.2838331
+564,24-Mar,25,Male,Chennai,Tamil Nadu,Hospitalized,24-Mar,Travelled from London via Bengaluru,13.0801721,80.2838331
+565,24-Mar,64,Female,Hyderabad,Telangana,Hospitalized,24-Mar,Contact with TS-P25,25.3801017,68.3750376
+566,24-Mar,Not Known,Not Known,Panipat,Haryana,Hospitalized,24-Mar,Details awaited,29.3912753,76.9771675
+567,24-Mar,Not Known,Not Known,Faridabad,Haryana,Hospitalized,24-Mar,Details awaited,28.402837,77.3085626
+568,24-Mar,Not Known,Female,Gandhinagar,Gujarat,Hospitalized,24-Mar,Wife of P295,23.2232877,72.6492267
+569,24-Mar,36,Male,Rajkot,Gujarat,Hospitalized,24-Mar,Travelled from Saudi Arabia,22.3051991,70.8028335
+570,24-Mar,75,Female,Rajkot,Gujarat,Hospitalized,24-Mar,Travelled from Saudi Arabia,22.3051991,70.8028335
+571,24-Mar,57,Male,Bhadradri Kothagudem,Telangana,Hospitalized,24-Mar,Contact with TS-P26,17.7153452,80.5714976
+572,24-Mar,Not Known,Female,Bhadradri Kothagudem,Telangana,Hospitalized,24-Mar,Contact with TS-P26,17.7153452,80.5714976
+573,25-Mar,Not Known,Not Known,Patna,Bihar,Hospitalized,25-Mar,Details awaited,25.6093239,85.1235252
+574,25-Mar,Not Known,Not Known,Indore,Madhya Pradesh,Hospitalized,25-Mar,"Details awaited, (family)",22.7205162,75.8681124
+575,25-Mar,Not Known,Not Known,Indore,Madhya Pradesh,Hospitalized,25-Mar,"Details awaited, (family)",22.7205162,75.8681124
+576,25-Mar,Not Known,Not Known,Indore,Madhya Pradesh,Hospitalized,25-Mar,"Details awaited, (family)",22.7205162,75.8681124
+577,25-Mar,Not Known,Not Known,Indore,Madhya Pradesh,Hospitalized,25-Mar,Travelled from Rishikesh,22.7205162,75.8681124
+578,25-Mar,65,Female,Ujjain,Madhya Pradesh,Deceased,25-Mar,Details awaited,23.174597,75.7851423
+579,25-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,25-Mar,Details awaited,16.8502534,74.5948885
+580,25-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,25-Mar,Details awaited,16.8502534,74.5948885
+581,25-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,25-Mar,Details awaited,16.8502534,74.5948885
+582,25-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,25-Mar,Details awaited,16.8502534,74.5948885
+583,25-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,25-Mar,Details awaited,16.8502534,74.5948885
+584,25-Mar,Not Known,Not Known,Rajkot,Gujarat,Hospitalized,25-Mar,Details awaited,22.3051991,70.8028335
+585,25-Mar,Not Known,Male,Rajkot,Gujarat,Hospitalized,25-Mar,Details awaited,22.3051991,70.8028335
+586,25-Mar,36,Male,Gwalior,Madhya Pradesh,Hospitalized,25-Mar,Native of Allahabad,26.2037247,78.1573628
+587,25-Mar,Not Known,Not Known,Bhopal,Madhya Pradesh,Hospitalized,25-Mar,"Father of P362, Journalist",23.2530923,77.3962718
+588,25-Mar,50,Male,Aizawl,Mizoram,Hospitalized,25-Mar,Travelled from Netherlands; Admitted at Zoram Medical College,23.7414092,92.7209297
+589,25-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,25-Mar,Hospital staff,25.4887735,74.6996128
+590,25-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,25-Mar,Hospital staff,25.4887735,74.6996128
+591,25-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,25-Mar,Infected by the Doctor who was tested positive a few days back,25.4887735,74.6996128
+592,25-Mar,Not Known,Female,Jodhpur,Rajasthan,Hospitalized,25-Mar,Travelled from Mumbai to Jodhpur in same coupe along with two other positive patients,26.2967719,73.0351433
+593,25-Mar,57,Male,Mumbai Suburban,Maharashtra,Hospitalized,25-Mar,"Contact Transmission,Details awaited",19.1309576,72.885931
+594,25-Mar,27,Male,Mumbai City,Maharashtra,Hospitalized,25-Mar,Travelled from USA,18.9733536,72.8281049
+595,25-Mar,39,Male,Mumbai City,Maharashtra,Hospitalized,25-Mar,Travelled from UAE,18.9733536,72.8281049
+596,25-Mar,38,Male,Kamothe Raigad,Maharashtra,Hospitalized,25-Mar,Travelled from Trinidad,19.0164338,73.0806552
+597,25-Mar,Not Known,Not Known,Salem,Tamil Nadu,Hospitalized,25-Mar,Indonesian Tourist,11.6643,78.146
+598,25-Mar,Not Known,Not Known,Salem,Tamil Nadu,Hospitalized,25-Mar,Indonesian Tourist,11.6643,78.146
+599,25-Mar,Not Known,Not Known,Salem,Tamil Nadu,Hospitalized,25-Mar,Indonesian Tourist,11.6643,78.146
+600,25-Mar,Not Known,Not Known,Salem,Tamil Nadu,Hospitalized,25-Mar,Indonesian Tourist,11.6643,78.146
+601,25-Mar,63,Male,Salem,Tamil Nadu,Hospitalized,25-Mar,Guide to Indonesian Tourist; Resident of Chennai,11.6643,78.146
+602,25-Mar,34,Male,Udupi,Karnataka,Hospitalized,25-Mar,Travelled from Dubai on 18.03.2020,13.3419169,74.7473232
+603,25-Mar,21,Female,Gurugram,Haryana,Hospitalized,25-Mar,Private Hospital Nurse,28.4646148,77.0299194
+604,25-Mar,Not Known,Not Known,Shivpuri,Madhya Pradesh,Hospitalized,25-Mar,Details awaited,25.432,77.6644
+605,25-Mar,Not Known,Not Known,Bandipora,Jammu and Kashmir,Hospitalized,25-Mar,Details awaited,34.4563234,75.1834458
+606,25-Mar,Not Known,Not Known,Bandipora,Jammu and Kashmir,Hospitalized,25-Mar,Details awaited,34.4563234,75.1834458
+607,25-Mar,Not Known,Not Known,Bandipora,Jammu and Kashmir,Hospitalized,25-Mar,Details awaited,34.4563234,75.1834458
+608,25-Mar,Not Known,Not Known,Bandipora,Jammu and Kashmir,Hospitalized,25-Mar,Details awaited,34.4563234,75.1834458
+609,25-Mar,Not Known,Not Known,Bandipora,Jammu and Kashmir,Hospitalized,25-Mar,Details awaited,34.4563234,75.1834458
+610,25-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,25-Mar,Details awaited,19.1309576,72.885931
+611,25-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,25-Mar,Details awaited,19.1309576,72.885931
+612,25-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,25-Mar,Details awaited,19.1309576,72.885931
+613,25-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,25-Mar,Details awaited,19.1309576,72.885931
+614,25-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,25-Mar,Details awaited,19.1309576,72.885931
+615,25-Mar,Not Known,Not Known,Thane,Maharashtra,Hospitalized,25-Mar,Details awaited,19.1943294,72.9701779
+616,25-Mar,Not Known,Not Known,Kozhikode,Kerala,Hospitalized,25-Mar,Travelled from Brazil via Dubai Air India AI 425,11.2446144,75.7759372
+617,25-Mar,Not Known,Not Known,Palakkad,Kerala,Hospitalized,25-Mar,Travelled from Dubai,10.7691989,76.6512469
+618,25-Mar,Not Known,Not Known,Palakkad,Kerala,Hospitalized,25-Mar,Travelled from Dubai,10.7691989,76.6512469
+619,25-Mar,Not Known,Not Known,Pathanamthitta,Kerala,Hospitalized,25-Mar,Travelled from UK,9.2834044,76.9606628
+620,25-Mar,Not Known,Not Known,Pathanamthitta,Kerala,Hospitalized,25-Mar,Travelled from Dubai,9.2834044,76.9606628
+621,25-Mar,Not Known,Not Known,Idukki,Kerala,Hospitalized,25-Mar,Travelled from Dubai SG 18,9.8497872,76.9797914
+622,25-Mar,22,Male,Ernakulam,Kerala,Hospitalized,25-Mar,"Travelled from France via Delhi, Kochi",10.0383947,76.5074145
+623,25-Mar,23,Male,Ernakulam,Kerala,Hospitalized,25-Mar,"Travelled from France via Delhi, Kochi",10.0383947,76.5074145
+624,25-Mar,37,Male,Ernakulam,Kerala,Hospitalized,25-Mar,Contact Transmission from P380,10.0383947,76.5074145
+625,25-Mar,Not Known,Not Known,South Delhi,Delhi,Hospitalized,25-Mar,Travel History Abroad (details awaited),28.4851694,77.1963797
+626,25-Mar,Not Known,Not Known,South Delhi,Delhi,Hospitalized,25-Mar,No Travel History ( details awaited),28.4851694,77.1963797
+627,25-Mar,Not Known,Not Known,South Delhi,Delhi,Hospitalized,25-Mar,No Travel History ( details awaited),28.4851694,77.1963797
+628,25-Mar,Not Known,Not Known,South Delhi,Delhi,Hospitalized,25-Mar,No Travel History ( details awaited),28.4851694,77.1963797
+629,25-Mar,Not Known,Not Known,South Delhi,Delhi,Hospitalized,25-Mar,No Travel History ( details awaited),28.4851694,77.1963797
+630,25-Mar,37,Female,Chitradurga,Karnataka,Hospitalized,25-Mar,Travel history to Guyana and arrived in Bangalore via Delhi on Mar 20,14.2266443,76.4005122
+631,25-Mar,63,Male,Bangalore Rural,Karnataka,Hospitalized,25-Mar,"Travel History to Brazil, Argentina and arrived in Bangalore on Mar 19",13.0010872,77.3361225
+632,25-Mar,59,Female,Bangalore Rural,Karnataka,Hospitalized,25-Mar,"Travel History to Brazil, Argentina and arrived in Bangalore on Mar 19. Wife of P630",13.0010872,77.3361225
+633,25-Mar,26,Male,Bangalore Rural,Karnataka,Hospitalized,25-Mar,Travel History to Spain and arrived in Bangalore via Dubai on Mar 14,13.0010872,77.3361225
+634,25-Mar,26,Male,Bangalore Rural,Karnataka,Hospitalized,25-Mar,Travel History to Spain and arrived in Bangalore via Dubai on Mar 14. Travelled with P632,13.0010872,77.3361225
+635,25-Mar,63,Female,Bangalore Rural,Karnataka,Hospitalized,25-Mar,Travel History to Athens and London and arrived in Bangalore on Mar 18.,13.0010872,77.3361225
+636,25-Mar,69,Male,Bangalore Rural,Karnataka,Hospitalized,25-Mar,Travel History to Athens and London and arrived in Bangalore on Mar 18. Husband of P634,13.0010872,77.3361225
+637,25-Mar,9,Female,Bangalore Rural,Karnataka,Hospitalized,25-Mar,"Daughter of P297, KA-P17",13.0010872,77.3361225
+638,25-Mar,7,Female,Bangalore Rural,Karnataka,Hospitalized,25-Mar,"Daughter of P297, KA-P17",13.0010872,77.3361225
+639,25-Mar,55,Female,Ludhiana,Punjab,Hospitalized,25-Mar,"No Travel History (Husband, Son and 2 servants in isolation)",30.9090157,75.851601
+640,25-Mar,31,Male,Hoshiarpur,Punjab,Hospitalized,25-Mar,Son of P311,31.6085743,75.8464425
+641,25-Mar,26,Male,Pauri Garhwal,Uttarakhand,Hospitalized,25-Mar,Travel History to Spain (admitted in Kotdwar),29.8459111,78.7076675
+642,25-Mar,23,Male,Rajnandgaon,Chhattisgarh,Hospitalized,25-Mar,Travel history to Thailand (admitted in Rajnandgaon hospital),20.9727404,80.6915555
+643,25-Mar,24,Female,Raipur,Chhattisgarh,Hospitalized,25-Mar,Travel history to UK,21.2379469,81.6336833
+644,25-Mar,Not Known,Male,Gautam Buddh Nagar,Uttar Pradesh,Hospitalized,25-Mar,Details awaited ( husband of P644 ),27.42397,77.09922
+645,25-Mar,Not Known,Female,Gautam Buddh Nagar,Uttar Pradesh,Hospitalized,25-Mar,Details awaited ( Wife of P643 ),27.42397,77.09922
+646,25-Mar,Not Known,Male,Pilibhit,Uttar Pradesh,Hospitalized,25-Mar,"No Travel History (Contact Transmission, Details Awaited)",28.4952077,80.1075408
+647,25-Mar,43,Female,Hyderabad,Telangana,Hospitalized,25-Mar,Contact with TS-P34,25.3801017,68.3750376
+648,25-Mar,3,Male,Not Known,Telangana,Hospitalized,25-Mar,"Travelled from Saudi Arabia, along with his parents",17.6339929,78.4843146
+649,25-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,25-Mar,Details Awaited,25.4887735,74.6996128
+650,25-Mar,Not Known,Not Known,Jhunjhunu,Rajasthan,Hospitalized,25-Mar,Contact Transmission from other patients in jhunjhunu,28.1287995,75.3992581
+651,25-Mar,22,Male,Krishna,Andhra Pradesh,Hospitalized,25-Mar,"Travelled from Washington, USA to Delhi on 20.03.2020, Delhi to Vijayawada on 22.03.2020. Hospitalised on 23.03.2020",16.6691525,80.7190024
+652,25-Mar,18,Male,Chennai,Tamil Nadu,Hospitalized,25-Mar,"Contact of second patient at RGGH (ID Unknown, Possibly P154)",13.0801721,80.2838331
+653,25-Mar,63,Male,Ranipet,Tamil Nadu,Hospitalized,25-Mar,Travelled from Dubai,12.9272641,79.3330076
+654,25-Mar,66,Male,Erode,Tamil Nadu,Hospitalized,25-Mar,"Contact of Thai Tourist (ID Unknown, Possibly P301 or P302)",11.3692044,77.6766269
+655,25-Mar,52,Male,Guntur,Andhra Pradesh,Hospitalized,25-Mar,No foreign travel. Attended meeting at Delhi Nizamuddin mosque from 14.03.2020 and returned to Vijayawada by train on 19.03.2020.,16.2915189,80.4541588
+656,25-Mar,25,Male,North Goa,Goa,Hospitalized,25-Mar,Travel History to Spain,15.6044413,74.0017241
+657,25-Mar,29,Male,North Goa,Goa,Hospitalized,25-Mar,Travel History to Australia,15.6044413,74.0017241
+658,25-Mar,55,Male,North Goa,Goa,Hospitalized,25-Mar,Travel History to US,15.6044413,74.0017241
+659,26-Mar,66,Male,North 24 Parganas,West Bengal,Hospitalized,26-Mar,Details Awaited,22.7182799,88.6424809
+660,26-Mar,Not Known,Not Known,Mumbai Suburban,Maharashtra,Hospitalized,26-Mar,Details Awaited,19.1309576,72.885931
+661,26-Mar,Not Known,Not Known,Thane,Maharashtra,Hospitalized,26-Mar,Details Awaited,19.1943294,72.9701779
+662,26-Mar,Not Known,Not Known,Indore,Madhya Pradesh,Hospitalized,26-Mar,Details Awaited,22.7205162,75.8681124
+663,26-Mar,Not Known,Not Known,Indore,Madhya Pradesh,Hospitalized,26-Mar,Details Awaited,22.7205162,75.8681124
+664,26-Mar,Not Known,Not Known,Indore,Madhya Pradesh,Hospitalized,26-Mar,Details Awaited,22.7205162,75.8681124
+665,26-Mar,Not Known,Not Known,Indore,Madhya Pradesh,Hospitalized,26-Mar,Details Awaited,22.7205162,75.8681124
+666,26-Mar,Not Known,Not Known,Indore,Madhya Pradesh,Hospitalized,26-Mar,Details Awaited,22.7205162,75.8681124
+667,26-Mar,Not Known,Not Known,Raipur,Chhattisgarh,Hospitalized,26-Mar,Details Awaited,21.2379469,81.6336833
+668,26-Mar,Not Known,Not Known,Raipur,Chhattisgarh,Hospitalized,26-Mar,Details Awaited,21.2379469,81.6336833
+669,26-Mar,Not Known,Not Known,Raipur,Chhattisgarh,Hospitalized,26-Mar,Details Awaited,21.2379469,81.6336833
+670,26-Mar,Not Known,Not Known,Rajkot,Gujarat,Hospitalized,26-Mar,Details Awaited,22.3051991,70.8028335
+671,26-Mar,Not Known,Not Known,Rajkot,Gujarat,Hospitalized,26-Mar,Details Awaited,22.3051991,70.8028335
+672,26-Mar,Not Known,Not Known,Rajkot,Gujarat,Hospitalized,26-Mar,Details Awaited,22.3051991,70.8028335
+673,26-Mar,Not Known,Not Known,Rajkot,Gujarat,Hospitalized,26-Mar,Details Awaited,22.3051991,70.8028335
+674,26-Mar,Not Known,Not Known,Rajkot,Gujarat,Hospitalized,26-Mar,Details Awaited,22.3051991,70.8028335
+675,26-Mar,Not Known,Male,North East Delhi,Delhi,Hospitalized,26-Mar,Mohalla Clinic Doctor (Contact Transmission 800+ contacts quarantined),28.7233079,77.2668565
+676,26-Mar,21,Female,Gautam Buddh Nagar,Uttar Pradesh,Hospitalized,26-Mar,(Sec 137) Contact Transmission (Parents found positive 2 days ago),27.42397,77.09922
+677,26-Mar,39,Male,Gautam Buddh Nagar,Uttar Pradesh,Hospitalized,26-Mar,(Sec 150) Husband of P677 (Colleague travelled from UK already tested positive ),27.42397,77.09922
+678,26-Mar,33,Female,Gautam Buddh Nagar,Uttar Pradesh,Hospitalized,26-Mar,(Sec 150) Wife of P676,27.42397,77.09922
+679,26-Mar,32,Male,Baghpat,Uttar Pradesh,Hospitalized,26-Mar,Travel History to Dubai,28.9724041,77.3331528
+680,26-Mar,Not Known,Not Known,Nalanda,Bihar,Hospitalized,26-Mar,Details Awaited,25.2208117,86.5172037
+681,26-Mar,Not Known,Not Known,Patna,Bihar,Hospitalized,26-Mar,Details Awaited,25.6093239,85.1235252
+683,26-Mar,49,Male,Medchal,Telangana,Hospitalized,26-Mar,Travelled from Delhi,17.6339929,78.4843146
+684,26-Mar,36,Female,Hyderabad,Telangana,Hospitalized,26-Mar,"Doctor, Wife of TS-P44",25.3801017,68.3750376
+685,26-Mar,41,Male,Hyderabad,Telangana,Hospitalized,26-Mar,"Doctor, Husband of TS-P43",25.3801017,68.3750376
+686,26-Mar,45,Male,Jaipur,Rajasthan,Hospitalized,26-Mar,Details Awaited,26.916194,75.820349
+687,26-Mar,35,Male,Jhunjhunu,Rajasthan,Hospitalized,26-Mar,Details Awaited,28.1287995,75.3992581
+688,26-Mar,Not Known,Not Known,Ludhiana,Punjab,Hospitalized,26-Mar,Details Awaited,30.9090157,75.851601
+689,26-Mar,Not Known,Not Known,Ludhiana,Punjab,Hospitalized,26-Mar,Details Awaited,30.9090157,75.851601
+690,26-Mar,35,Male,Mysuru,Karnataka,Hospitalized,26-Mar,Had been in contact with healthcare professionals. No other contact histroy or travel history,12.3051828,76.6553609
+691,26-Mar,70,Female,Chikkaballapura,Karnataka,Deceased,26-Mar,"Travelled from Mecca, Saudi Arabia, details awaited",13.4358702,77.7312434
+692,26-Mar,64,Male,Bengaluru,Karnataka,Hospitalized,26-Mar,"Travelled from France, has been to Himachal Pradesh, Puttaparthi. Resident of Andhra Pradesh",12.9791198,77.5912997
+693,26-Mar,45,Male,Bengaluru,Karnataka,Hospitalized,26-Mar,Contact transmission from KA-P25,12.9791198,77.5912997
+694,26-Mar,42,Male,Nagpur,Maharashtra,Hospitalized,26-Mar,Details Awaited,21.1498134,79.0820556
+695,26-Mar,21,Female,Panipat,Haryana,Hospitalized,26-Mar,Nurse in a private hospital of Gurugram,29.3912753,76.9771675
+696,26-Mar,24,Male,Tiruchirappalli,Tamil Nadu,Hospitalized,26-Mar,Travelled from Dubai,11.6643,78.146
+697,26-Mar,7,Male,Srinagar,Jammu and Kashmir,Hospitalized,26-Mar,Siblings (7 years old and 8 months old)- grandchildren of a confirmed case from Srinagar with travel history to Saudi Arabia who had tested positive on 24th,34.0747444,74.8204443
+698,26-Mar,1,Male,Srinagar,Jammu and Kashmir,Hospitalized,26-Mar,Siblings (7 years old and 8 months old)- grandchildren of a confirmed case from Srinagar with travel history to Saudi Arabia who had tested positive on 24th,34.0747444,74.8204443
+699,26-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,26-Mar,Travelled from Dubai to Bangalore (Emirates EK 564) and from there by Road,11.8762254,75.3738043
+700,26-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,26-Mar,Travelled from Dubai to Bangalore (Emirates EK 564) and from there by Road,11.8762254,75.3738043
+701,26-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,26-Mar,Travelled from Dubai to Bangalore (Emirates EK 566) and from there by Road,11.8762254,75.3738043
+702,26-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,26-Mar,Travelled from Dubai to Bangalore (Emirates EK 566) and from there by Road,11.8762254,75.3738043
+703,26-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,26-Mar,Travelled from Dubai Air India AI 938 on March 19,11.8762254,75.3738043
+704,26-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,26-Mar,Travelled from Dubai Air India AI 938 on March 17,11.8762254,75.3738043
+705,26-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,26-Mar,Travelled from Dubai to Bangalore (Emirates EK 564) and from there by Road,11.8762254,75.3738043
+706,26-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,26-Mar,Travelled from Dubai SG 54,11.8762254,75.3738043
+707,26-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,26-Mar,Travelled from Dubai SG 54,11.8762254,75.3738043
+708,26-Mar,37,Not Known,Kasaragod,Kerala,Hospitalized,26-Mar,Travelled from Dubai landed in Bangalore airport from there in a private vehicle,12.421713,75.1904498
+709,26-Mar,38,Not Known,Kasaragod,Kerala,Hospitalized,26-Mar,Travelled from Dubai landed in Bangalore airport from there in a private vehicle,12.421713,75.1904498
+710,26-Mar,26,Not Known,Kasaragod,Kerala,Hospitalized,26-Mar,Travelled with P316,12.421713,75.1904498
+711,26-Mar,49,Male,Malappuram,Kerala,Hospitalized,26-Mar,Travelled from Abhudhabi,11.1068448,76.1099551
+712,26-Mar,39,Male,Malappuram,Kerala,Hospitalized,26-Mar,Travelled from Dubai to bangalore (Emirates EK 564) and from there to Kozhikode in a goods vehicle,11.1068448,76.1099551
+713,26-Mar,36,Male,Malappuram,Kerala,Hospitalized,26-Mar,"Travelled from Dubai via Sharjah Air India AI 968, Admitted to Govt. Medial College Thiruvanathapuram",11.1068448,76.1099551
+714,26-Mar,Not Known,Not Known,Idukki,Kerala,Hospitalized,26-Mar,Details Awaited,9.8497872,76.9797914
+715,26-Mar,32,Male,Thrissur,Kerala,Hospitalized,26-Mar,Wife of P469,10.5256264,76.2132542
+716,26-Mar,21,Male,Thrissur,Kerala,Hospitalized,26-Mar,Details Awaited,10.5256264,76.2132542
+717,26-Mar,Not Known,Not Known,Wayanad,Kerala,Hospitalized,26-Mar,Travelled from Abhudhabi EY 254 on 22 March landed at Kozhikode Airport,10.5256264,76.2132542
+718,26-Mar,24,Male,Chennai,Tamil Nadu,Hospitalized,26-Mar,Travelled from London,13.0801721,80.2838331
+719,26-Mar,65,Female,Chennai,Tamil Nadu,Hospitalized,26-Mar,Grandmother of TN-P28,13.0801721,80.2838331
+720,26-Mar,20,Male,Patna,Bihar,Hospitalized,26-Mar,No travel history,25.6093239,85.1235252
+721,26-Mar,29,Male,Krishna,Andhra Pradesh,Hospitalized,26-Mar,"Travelled from Stockholm to Delhi on , Delhi to Vijayawada on ",18.03.2020,19.03.2020
+722,26-Mar,60,Male,Khordha,Odisha,Hospitalized,26-Mar,Details Awaited,20.2667774,85.8435592
+723,26-Mar,Not Known,Not Known,Rajouri,Jammu and Kashmir,Hospitalized,26-Mar,Close relative of P531,33.3716,74.3152
+724,26-Mar,45,Male,Hyderabad,Telangana,Hospitalized,26-Mar,Travelled from Delhi,25.3801017,68.3750376
+725,26-Mar,Not Known,Not Known,Pratapgarh - Rajasthan,Rajasthan,Hospitalized,26-Mar,Details Awaited,24.0333495,74.7801315
+726,26-Mar,Not Known,Not Known,Pratapgarh - Rajasthan,Rajasthan,Hospitalized,26-Mar,Details Awaited,24.0333495,74.7801315
+727,26-Mar,Not Known,Not Known,Pratapgarh - Rajasthan,Rajasthan,Hospitalized,26-Mar,Details Awaited,24.0333495,74.7801315
+728,26-Mar,37,Male,Rajkot,Gujarat,Hospitalized,26-Mar,Matched with Gujarat Dashboard and TOI,22.3051991,70.8028335
+729,26-Mar,Not Known,Not Known,North East Delhi,Delhi,Hospitalized,26-Mar,Details Awaited,28.7233079,77.2668565
+730,26-Mar,Not Known,Not Known,North East Delhi,Delhi,Hospitalized,26-Mar,Details Awaited,28.7233079,77.2668565
+731,26-Mar,Not Known,Not Known,North East Delhi,Delhi,Hospitalized,26-Mar,Details Awaited,28.7233079,77.2668565
+732,26-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,26-Mar,Details Awaited,16.8502534,74.5948885
+733,26-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,26-Mar,Details Awaited,16.8502534,74.5948885
+734,26-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,26-Mar,Details Awaited,16.8502534,74.5948885
+735,26-Mar,Not Known,Not Known,Kolhapur,Maharashtra,Hospitalized,26-Mar,Details Awaited,19.0164338,73.0806552
+736,26-Mar,Not Known,Not Known,Pune,Maharashtra,Hospitalized,26-Mar,Details Awaited,18.521428,73.8544541
+737,27-Mar,53,Male,N&M Andaman,Andaman and Nicobar Islands,Hospitalized,27-Mar,Travelled with P681,11.7401,92.6586
+738,27-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,27-Mar,Details Awaited,25.4887735,74.6996128
+739,27-Mar,Not Known,Not Known,Bhilwara,Rajasthan,Hospitalized,27-Mar,Details Awaited,25.4887735,74.6996128
+740,27-Mar,Not Known,Not Known,Siwan,Bihar,Hospitalized,27-Mar,Travelled from Dubai,25.6093239,85.1235252
+741,27-Mar,Not Known,Not Known,Nalanda,Bihar,Hospitalized,27-Mar,No travel history to any foreign country,25.2208117,86.5172037
+742,27-Mar,Not Known,Not Known,Nagpur,Maharashtra,Hospitalized,27-Mar,Details Awaited,21.1498134,79.0820556
+743,27-Mar,Not Known,Not Known,Nagpur,Maharashtra,Hospitalized,27-Mar,Details Awaited,21.1498134,79.0820556
+744,27-Mar,Not Known,Not Known,Nagpur,Maharashtra,Hospitalized,27-Mar,Details Awaited,21.1498134,79.0820556
+745,27-Mar,Not Known,Not Known,Nagpur,Maharashtra,Hospitalized,27-Mar,Details Awaited,21.1498134,79.0820556
+746,27-Mar,Not Known,Not Known,Gondia,Maharashtra,Hospitalized,27-Mar,Details Awaited,19.877263,75.3390241
+747,27-Mar,Not Known,Male,Visakhapatnam,Andhra Pradesh,Hospitalized,27-Mar,Contact of AP-P7,17.7231276,83.3012842
+748,27-Mar,35,Male,Indore,Madhya Pradesh,Deceased,27-Mar,Details awaited,22.7205162,75.8681124
+749,27-Mar,Not Known,Not Known,Madurai,Tamil Nadu,Hospitalized,27-Mar,Family member of TN-P12,9.9261153,78.1140983
+750,27-Mar,Not Known,Not Known,Madurai,Tamil Nadu,Hospitalized,27-Mar,Family member of TN-P12,9.9261153,78.1140983
+751,27-Mar,Not Known,Not Known,Erode,Tamil Nadu,Hospitalized,27-Mar,Contact with Thai Nationals,11.3692044,77.6766269
+752,27-Mar,Not Known,Not Known,Erode,Tamil Nadu,Hospitalized,27-Mar,Contact with Thai Nationals,11.3692044,77.6766269
+753,27-Mar,Not Known,Not Known,Chennai,Tamil Nadu,Hospitalized,27-Mar,Family member of TN-P14,13.0801721,80.2838331
+754,27-Mar,Not Known,Not Known,Chennai,Tamil Nadu,Hospitalized,27-Mar,No Travel History,13.0801721,80.2838331
+755,27-Mar,1,Male,Dakshina Kannada,Karnataka,Hospitalized,27-Mar,No travel history. Child was taken to Kerala.,12.8213304,75.2276716
+756,27-Mar,20,Male,Bengaluru,Karnataka,Hospitalized,27-Mar,"Travelled from Colombo, arrived on 15.03.2020",12.9791198,77.5912997
+757,27-Mar,25,Female,Bengaluru,Karnataka,Hospitalized,27-Mar,"Travelled from London, UK, arrived on 18.03.2020",12.9791198,77.5912997
+758,27-Mar,35,Female,Bengaluru,Karnataka,Hospitalized,27-Mar,Contact (Domestic Worker) of KA-P25,12.9791198,77.5912997
+759,27-Mar,60,Male,Tumkur,Karnataka,Deceased,27-Mar,History of travel to Delhi,12.3051828,76.6553609
+760,27-Mar,33,Female,Bengaluru,Karnataka,Hospitalized,27-Mar,Contact (Domestic Worker) of KA-P25,12.9791198,77.5912997
+761,27-Mar,22,Male,Uttara Kannada,Karnataka,Hospitalized,27-Mar,Travelled from Dubai,14.7244742,74.6422373
+762,27-Mar,Not Known,Female,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,27-Mar,Details Awaited,28.3676097,77.5974033
+763,27-Mar,Not Known,Male,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,27-Mar,Details Awaited,28.3676097,77.5974033
+764,27-Mar,Not Known,Not Known,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,27-Mar,Details Awaited,28.3676097,77.5974033
+765,27-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,27-Mar,Related to a previous patient from Sangli,16.8502534,74.5948885
+766,27-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,27-Mar,Related to a previous patient from Sangli,16.8502534,74.5948885
+767,27-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,27-Mar,Related to a previous patient from Sangli,16.8502534,74.5948885
+768,27-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,27-Mar,Related to a previous patient from Sangli,16.8502534,74.5948885
+769,27-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,27-Mar,Related to a previous patient from Sangli,16.8502534,74.5948885
+770,27-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,27-Mar,Related to a previous patient from Sangli,16.8502534,74.5948885
+771,27-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,27-Mar,Related to a previous patient from Sangli,16.8502534,74.5948885
+772,27-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,27-Mar,Related to a previous patient from Sangli,16.8502534,74.5948885
+773,27-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,27-Mar,Related to a previous patient from Sangli,16.8502534,74.5948885
+774,27-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,27-Mar,Related to a previous patient from Sangli,16.8502534,74.5948885
+775,27-Mar,Not Known,Not Known,Sangli,Maharashtra,Hospitalized,27-Mar,Related to a previous patient from Sangli,16.8502534,74.5948885
+776,27-Mar,42,Male,Ujjain,Madhya Pradesh,Hospitalized,27-Mar,Related to P577,23.174597,75.7851423
+777,27-Mar,41,Male,Indore,Madhya Pradesh,Hospitalized,27-Mar,Details awaited,22.7205162,75.8681124
+778,27-Mar,53,Male,Indore,Madhya Pradesh,Hospitalized,27-Mar,Details awaited,22.7205162,75.8681124
+779,27-Mar,18,Female,Indore,Madhya Pradesh,Hospitalized,27-Mar,Details awaited,22.7205162,75.8681124
+780,27-Mar,14,Female,Indore,Madhya Pradesh,Hospitalized,27-Mar,Details awaited,22.7205162,75.8681124
+781,27-Mar,Not Known,Not Known,Srinagar,Jammu and Kashmir,Hospitalized,27-Mar,Foreign Travel,34.0747444,74.8204443
+782,27-Mar,Not Known,Not Known,Srinagar,Jammu and Kashmir,Hospitalized,27-Mar,Foreign Travel,34.0747444,74.8204443
+783,27-Mar,Not Known,Not Known,Srinagar,Jammu and Kashmir,Hospitalized,27-Mar,Travel history outside J&K as part of religious congregation,34.0747444,74.8204443
+784,27-Mar,Not Known,Not Known,Srinagar,Jammu and Kashmir,Hospitalized,27-Mar,Travel history outside J&K as part of religious congregation,34.0747444,74.8204443
+785,27-Mar,Not Known,Not Known,Rangareddy,Telangana,Hospitalized,27-Mar,Details awaited,17.1333954,78.3970979
+786,27-Mar,Not Known,Not Known,Rangareddy,Telangana,Hospitalized,27-Mar,Details awaited,17.1333954,78.3970979
+787,27-Mar,Not Known,Not Known,Rangareddy,Telangana,Hospitalized,27-Mar,Details awaited,17.1333954,78.3970979
+788,27-Mar,Not Known,Not Known,Rangareddy,Telangana,Hospitalized,27-Mar,Details awaited,17.1333954,78.3970979
+789,27-Mar,Not Known,Not Known,Rangareddy,Telangana,Hospitalized,27-Mar,Details awaited,17.1333954,78.3970979
+790,27-Mar,Not Known,Not Known,Rangareddy,Telangana,Hospitalized,27-Mar,Details awaited,17.1333954,78.3970979
+791,27-Mar,Not Known,Not Known,Rangareddy,Telangana,Hospitalized,27-Mar,Details awaited,17.1333954,78.3970979
+792,27-Mar,Not Known,Not Known,Rangareddy,Telangana,Hospitalized,27-Mar,Details awaited,17.1333954,78.3970979
+793,27-Mar,Not Known,Not Known,Rangareddy,Telangana,Hospitalized,27-Mar,Details awaited,17.1333954,78.3970979
+794,27-Mar,Not Known,Not Known,Rangareddy,Telangana,Hospitalized,27-Mar,Details awaited,17.1333954,78.3970979
+795,27-Mar,Not Known,Not Known,Rangareddy,Telangana,Hospitalized,27-Mar,Details awaited,17.1333954,78.3970979
+796,27-Mar,Not Known,Not Known,Rangareddy,Telangana,Hospitalized,27-Mar,Details awaited,17.1333954,78.3970979
+797,27-Mar,Not Known,Not Known,Rangareddy,Telangana,Hospitalized,27-Mar,Details awaited,17.1333954,78.3970979
+798,27-Mar,Not Known,Not Known,Rangareddy,Telangana,Hospitalized,27-Mar,Details awaited,17.1333954,78.3970979
+799,27-Mar,Not Known,Not Known,Panipat,Haryana,Hospitalized,27-Mar,Details awaited,29.3912753,76.9771675
+800,27-Mar,Not Known,Not Known,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,27-Mar,Contact transmission,31.1268889,76.1576848
+801,27-Mar,Not Known,Not Known,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,27-Mar,Contact transmission,31.1268889,76.1576848
+802,27-Mar,Not Known,Not Known,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,27-Mar,Contact transmission,31.1268889,76.1576848
+803,27-Mar,Not Known,Not Known,Sahibzada Ajit Singh Nagar,Punjab,Hospitalized,27-Mar,Contact transmission,30.7287676,76.7138075
+804,27-Mar,Not Known,Not Known,Jalandhar,Punjab,Hospitalized,27-Mar,Contact transmission,31.2920107,75.5680577
+805,27-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,27-Mar,Travelled from Dubai Emirates EK 566 landed at Bengaluru,11.8762254,75.3738043
+806,27-Mar,Not Known,Not Known,Kannur,Kerala,Hospitalized,27-Mar,Travelled from Dubai Ettihad EY 254 landed at Kozhikode,11.8762254,75.3738043
+807,27-Mar,Not Known,Not Known,Thrissur,Kerala,Hospitalized,27-Mar,Details awaited,10.5256264,76.2132542
+808,27-Mar,Not Known,Not Known,Kozhikode,Kerala,Hospitalized,27-Mar,Details awaited,11.2446144,75.7759372
+809,27-Mar,Not Known,Not Known,Kollam,Kerala,Hospitalized,27-Mar,Travelled from Dubai,9.6285704,76.645525
+810,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+811,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+812,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+813,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+814,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+815,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+816,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+817,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+818,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+819,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+820,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+821,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+822,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+823,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+824,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+825,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+826,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+827,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+828,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+829,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+830,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+831,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+832,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Travelled from Dubai,12.421713,75.1904498
+833,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Contact transmission. details awaited,12.421713,75.1904498
+834,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Contact transmission. details awaited,12.421713,75.1904498
+835,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Contact transmission. details awaited,12.421713,75.1904498
+836,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Contact transmission. details awaited,12.421713,75.1904498
+837,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Contact transmission. details awaited,12.421713,75.1904498
+838,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Contact transmission. details awaited,12.421713,75.1904498
+839,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Contact transmission. details awaited,12.421713,75.1904498
+840,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Contact transmission. details awaited,12.421713,75.1904498
+841,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Contact transmission. details awaited,12.421713,75.1904498
+842,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Contact transmission. details awaited,12.421713,75.1904498
+843,27-Mar,Not Known,Not Known,Kasaragod,Kerala,Hospitalized,27-Mar,Contact transmission. details awaited,12.421713,75.1904498
+844,27-Mar,Not Known,Not Known,Mumbai City,Maharashtra,Hospitalized,27-Mar,Contact Transmission,18.9733536,72.8281049
+845,27-Mar,Not Known,Not Known,Mumbai City,Maharashtra,Hospitalized,27-Mar,Contact Transmission,18.9733536,72.8281049
+846,27-Mar,Not Known,Not Known,Mumbai City,Maharashtra,Hospitalized,27-Mar,Contact Transmission,18.9733536,72.8281049
+847,27-Mar,Not Known,Not Known,Mumbai City,Maharashtra,Hospitalized,27-Mar,Contact Transmission,18.9733536,72.8281049
+848,27-Mar,Not Known,Not Known,Mumbai City,Maharashtra,Hospitalized,27-Mar,"Travel history, details awaited",18.9733536,72.8281049
+849,27-Mar,Not Known,Not Known,Mumbai City,Maharashtra,Hospitalized,27-Mar,"Travel history, details awaited",18.9733536,72.8281049
+850,27-Mar,Not Known,Not Known,Mumbai City,Maharashtra,Hospitalized,27-Mar,"Travel history, details awaited",18.9733536,72.8281049
+851,27-Mar,Not Known,Not Known,Mumbai City,Maharashtra,Hospitalized,27-Mar,"Travel history, details awaited",18.9733536,72.8281049
+852,27-Mar,Not Known,Not Known,Mumbai City,Maharashtra,Hospitalized,27-Mar,"Travel history, details awaited",18.9733536,72.8281049
+853,27-Mar,23,,N&M Andaman,Andaman and Nicobar Islands,Hospitalized,27-Mar,Details awaited,11.7401,92.6586
+854,27-Mar,64,,N&M Andaman,Andaman and Nicobar Islands,Hospitalized,27-Mar,Details awaited,11.7401,92.6586
+855,27-Mar,Not Known,Not Known,N&M Andaman,Andaman and Nicobar Islands,Hospitalized,27-Mar,Details awaited,11.7401,92.6586
+856,27-Mar,Not Known,Not Known,N&M Andaman,Andaman and Nicobar Islands,Hospitalized,27-Mar,Details awaited,11.7401,92.6586
+857,27-Mar,Not Known,Not Known,Varanasi,Uttar Pradesh,Hospitalized,27-Mar,Details awaited,25.3356491,83.0076292
+858,27-Mar,Not Known,Not Known,Varanasi,Uttar Pradesh,Hospitalized,27-Mar,Details awaited,25.3356491,83.0076292
+859,27-Mar,Not Known,Not Known,Varanasi,Uttar Pradesh,Hospitalized,27-Mar,Details awaited,25.3356491,83.0076292
+860,27-Mar,Not Known,Not Known,Varanasi,Uttar Pradesh,Hospitalized,27-Mar,Details awaited,25.3356491,83.0076292
+861,27-Mar,18,Male,Davanagere,Karnataka,Hospitalized,27-Mar,"Travel history to Paris, France",14.7244742,74.6422373
+862,27-Mar,21,Male,Dakshina Kannada,Karnataka,Hospitalized,27-Mar,Travel history to Dubai,14.7244742,74.6422373
+863,27-Mar,11,Male,North 24 Parganas,West Bengal,Hospitalized,27-Mar,"Family, History of contact to a positive case in Delhi who came from UK on 16th March",22.7182799,88.6424809
+864,27-Mar,27,Female,North 24 Parganas,West Bengal,Hospitalized,27-Mar,"Family, History of contact to a positive case in Delhi who came from UK on 16th March",22.7182799,88.6424809
+865,27-Mar,45,Female,North 24 Parganas,West Bengal,Hospitalized,27-Mar,"Family, History of contact to a positive case in Delhi who came from UK on 16th March",22.7182799,88.6424809
+866,27-Mar,6,Female,North 24 Parganas,West Bengal,Hospitalized,27-Mar,"Family, History of contact to a positive case in Delhi who came from UK on 16th March",22.7182799,88.6424809
+867,27-Mar,1,Female,North 24 Parganas,West Bengal,Hospitalized,27-Mar,"Family, History of contact to a positive case in Delhi who came from UK on 16th March",22.7182799,88.6424809
+868,27-Mar,Not Known,Not Known,Pratapgarh - Rajasthan,Rajasthan,Hospitalized,27-Mar,Details awaited,24.0333495,74.7801315
+869,27-Mar,Not Known,Not Known,Pratapgarh - Rajasthan,Rajasthan,Hospitalized,27-Mar,Details awaited,24.0333495,74.7801315
+870,27-Mar,Not Known,Not Known,Pratapgarh - Rajasthan,Rajasthan,Hospitalized,27-Mar,Details awaited,24.0333495,74.7801315
+871,27-Mar,Not Known,Not Known,Pratapgarh - Rajasthan,Rajasthan,Hospitalized,27-Mar,Details awaited,24.0333495,74.7801315
+872,27-Mar,Not Known,Not Known,Pratapgarh - Rajasthan,Rajasthan,Hospitalized,27-Mar,Details awaited,24.0333495,74.7801315
+873,27-Mar,73,Female,Chennai,Tamil Nadu,Hospitalized,27-Mar,"Admitted at RGGH, No history of travel",13.0801721,80.2838331
+874,27-Mar,61,Male,Salem,Tamil Nadu,Hospitalized,27-Mar,Contact with Indonesian,11.6643,78.146
+875,27-Mar,39,Male,Chennai,Tamil Nadu,Hospitalized,27-Mar,"Admitted at KMCH, No history of travel.",13.0801721,80.2838331
+876,27-Mar,,Female,Guntur,Andhra Pradesh,Hospitalized,27-Mar,Contact of AP-P10,17.7231276,83.3012842
+877,27-Mar,Not Known,Not Known,North East Delhi,Delhi,Hospitalized,27-Mar,Details awaited 40th case,28.7233079,77.2668565
+878,27-Mar,22,Male,Chandigarh,Chandigarh,Hospitalized,27-Mar,Travelled from Dubai. Remained home-quarantined for 14 days but developed fever on the 15th day,30.7194022,76.7646552
+879,27-Mar,50,Male,Bhopal,Madhya Pradesh,Hospitalized,27-Mar,"A 50-year-old man, a railway guard, tested positive at the All India Institute of Medical Sciences, Bhopal",23.2530923,77.3962718
+880,27-Mar,Not Known,Male,Jabalpur,Madhya Pradesh,Hospitalized,27-Mar,Travelled from Dubai.,23.1608938,79.9497702
+881,27-Mar,Not Known,Male,Jabalpur,Madhya Pradesh,Hospitalized,27-Mar,Travelled from Dubai.,23.1608938,79.9497702
+882,27-Mar,37,Male,Rajkot,Gujarat,Hospitalized,27-Mar,"Travel history, According to the information, infected persons had visited China in January this year.",22.3051991,70.8028335
+883,27-Mar,39,Male,Rajkot,Gujarat,Hospitalized,27-Mar,locally transmitted,22.3051991,70.8028335
+884,27-Mar,33,Female,Rajkot,Gujarat,Hospitalized,27-Mar,locally transmitted,22.3051991,70.8028335
+885,27-Mar,Not Known,Not Known,Rajouri,Jammu and Kashmir,Hospitalized,27-Mar,Contact history with P531,33.3716,74.3152
+886,27-Mar,Not Known,Not Known,Rajouri,Jammu and Kashmir,Hospitalized,27-Mar,Family member of Someone from 27th March,33.3716,74.3152
+887,28-Mar,Not Known,Not Known,Mumbai City,Maharashtra,Hospitalized,28-Mar,Details awaited,18.9733536,72.8281049
+888,28-Mar,Not Known,Not Known,Mumbai City,Maharashtra,Hospitalized,28-Mar,Details awaited,18.9733536,72.8281049
+889,28-Mar,Not Known,Not Known,Mumbai City,Maharashtra,Hospitalized,28-Mar,Details awaited,18.9733536,72.8281049
+890,28-Mar,Not Known,Not Known,Mumbai City,Maharashtra,Hospitalized,28-Mar,Details awaited,18.9733536,72.8281049
+891,28-Mar,Not Known,Not Known,Mumbai City,Maharashtra,Hospitalized,28-Mar,Details awaited,18.9733536,72.8281049
+892,28-Mar,Not Known,Not Known,Nagpur,Maharashtra,Hospitalized,28-Mar,Details awaited,21.1498134,79.0820556
+893,28-Mar,Not Known,Not Known,Rajkot,Gujarat,Hospitalized,28-Mar,Details awaited,22.3051991,70.8028335
+894,28-Mar,Not Known,Not Known,Rajkot,Gujarat,Hospitalized,28-Mar,Details awaited,22.3051991,70.8028335
+895,28-Mar,Not Known,Not Known,Rajkot,Gujarat,Hospitalized,28-Mar,Details awaited,22.3051991,70.8028335
+896,28-Mar,Not Known,Not Known,Rajkot,Gujarat,Hospitalized,28-Mar,Details awaited,22.3051991,70.8028335
+897,28-Mar,Not Known,Not Known,Rajkot,Gujarat,Hospitalized,28-Mar,Details awaited,22.3051991,70.8028335
+898,28-Mar,Not Known,Not Known,Rajkot,Gujarat,Hospitalized,28-Mar,Details awaited,22.3051991,70.8028335
+899,28-Mar,Not Known,Not Known,Indore,Madhya Pradesh,Hospitalized,28-Mar,Details awaited,22.7205162,75.8681124
+900,28-Mar,Not Known,Not Known,Indore,Madhya Pradesh,Hospitalized,28-Mar,Details awaited,22.7205162,75.8681124
+901,28-Mar,Not Known,Not Known,Shivpuri,Madhya Pradesh,Hospitalized,28-Mar,Details awaited,25.432,77.6644
+902,28-Mar,Not Known,Not Known,Ujjain,Madhya Pradesh,Hospitalized,28-Mar,Details awaited,23.174597,75.7851423
+903,28-Mar,42,Male,Kumbakonam,Tamil Nadu,Hospitalized,28-Mar,"Travelled from West Indies, Returned via Middle East",11.3692044,77.6766269
+904,28-Mar,49,Male,Vellore,Tamil Nadu,Hospitalized,28-Mar,"Travelled from United Kingdom, Returned via Middle East",10.7832271,77.5260478
+905,28-Mar,66,Male,Vadodara,Gujarat,Hospitalized,28-Mar,Details awaited,22.3072,73.1812
